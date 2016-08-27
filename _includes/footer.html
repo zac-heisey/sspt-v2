@@ -26,29 +26,29 @@
 		<section>
 			<h2>Follow</h2>
 			<ul class="icons">
-				{% if site.twitter_username %}
-				<li><a href="https://twitter.com/{{ site.twitter_username }}" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
+				{% if site.data.footer_follow_info.twitter_username %}
+				<li><a href="https://twitter.com/{{ site.data.footer_follow_info.twitter_username }}" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
 				{% endif %}
-				{% if site.facebook_URL %}
-				<li><a href="{{ site.facebook_URL }}" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
+				{% if site.data.footer_follow_info.facebook_URL %}
+				<li><a href="https://www.facebook.com/{{ site.data.footer_follow_info.facebook_URL }}" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
 				{% endif %}
-				{% if site.instagram_username %}
-				<li><a href="https://www.instagram.com/{{ site.instagram_username }}" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+				{% if site.data.footer_follow_info.instagram_username %}
+				<li><a href="https://www.instagram.com/{{ site.data.footer_follow_info.instagram_username }}" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
 				{% endif %}
-				{% if site.dribbble_username %}
-				<li><a href="#" class="icon style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
+				{% if site.data.footer_follow_info.dribbble_username %}
+				<li><a href="http://www.dribbble.com/{{ site.data.footer_follow_info.dribbble_username }}" class="icon style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
 				{% endif %}
-				{% if site.github_username %}
-				<li><a href="https://github.com/{{ site.github_username }}" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
+				{% if site.data.footer_follow_info.github_username %}
+				<li><a href="https://github.com/{{ site.data.footer_follow_info.github_username }}" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
 				{% endif %}
-				{% if site.500px_username %}
-				<li><a href="#" class="icon style2 fa-500px"><span class="label">500px</span></a></li>
+				{% if site.data.footer_follow_info.500px_username %}
+				<li><a href="https://500px.com/{{ site.data.footer_follow_info.500px_username }}" class="icon style2 fa-500px"><span class="label">500px</span></a></li>
 				{% endif %}
-				{% if site.phone %}
-				<li><a href="#" class="icon style2 fa-phone"><span class="label">Phone</span></a></li>
+				{% if site.data.footer_follow_info.phone %}
+				<li><a href="tel:{{ site.data.footer_follow_info.phone }}" class="icon style2 fa-phone"><span class="label">Phone</span></a></li>
 				{% endif %}
-				{% if site.email %}
-				<li><a href="mailto:{{ site.email }}" class="icon style2 fa-envelope-o"><span class="label">Email</span></a></li>
+				{% if site.data.footer_follow_info.email %}
+				<li><a href="mailto:{{ site.data.footer_follow_info.email }}" class="icon style2 fa-envelope-o"><span class="label">Email</span></a></li>
 				{% endif %}
 			</ul>
 		</section>

@@ -17,13 +17,13 @@ logo-image-url: images/logo.svg
 font-awesome-icon-logo:
 
 # Social settings
-github_username: andrewbanchich
-twitter_username: andrewbanchich
-facebook_URL: andrewbanchich
-instagram_username: andrewbanchich
-dribbble_username: andrewbanchich
-500px_username: andrewbanchich
-phone: 555-5555
+github_username: scottgallant
+twitter_username: forestryio
+facebook_URL: forestryio
+instagram_username: forestryio
+dribbble_username: forestryio
+500px_username: forestryio
+phone: (123) 456-7890
 
 # Build settings
 markdown: kramdown
