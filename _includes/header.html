@@ -8,17 +8,17 @@
 			<a href="{{ site.baseurl }}/" class="logo">
 				<span class="symbol">
 
-					{% if site.font-awesome-icon-logo %}
+					{% if site.data.site_settings_info.logo-image-url %}
 
-					<div href="#" class="icon style1 {{ site.font-awesome-icon-logo }}"></div>
+					<img src="{{ site.baseurl }}/{{ site.data.site_settings_info.logo-image-url }}" alt="{{ site.data.site_settings_info.title }} Logo" />
 
 					{% else %}
 
-					<img src="{{ site.baseurl }}/{{ site.logo-image-url }}" alt="" />
+					<img src="{{ site.baseurl }}/{{ site.logo-placeholder }}" alt="Placeholder Logo" />
 
 					{% endif %}
 
-				</span><span class="title">{{ site.title }}</span>
+				</span><span class="title">{{ site.data.site_settings_info.title }}</span>
 			</a>
 			<!-- Nav -->
 			<nav>

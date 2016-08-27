@@ -13,8 +13,7 @@ baseurl: "/Phantom-Jekyll-Theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Logo settings
-logo-image-url: images/logo.svg
-font-awesome-icon-logo:
+logo-placeholder: images/logo.svg
 
 # Social settings
 github_username: scottgallant
