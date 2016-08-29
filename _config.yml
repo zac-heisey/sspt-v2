@@ -29,3 +29,9 @@ markdown: kramdown
 
 # Layout settings
 home-link-in-menu: yes
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
