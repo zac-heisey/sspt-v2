@@ -6,6 +6,33 @@
 
 /* Project */
 
-  .project-details {
-    color: red;
+.project-details {
+  float: right;
+  margin: 0 5%;
+  width: 40%;
+}
+
+  @media screen and (max-width: 1000px) {
+    .project-details {
+      width: 30%
+    }
+  }
+
+  @media screen and (max-width: 880px) {
+    .project-details {
+      margin-right: 0;
+      width: 100%
+    }
+  }
+
+.image.featured img {
+  width: 200%;
+  max-width: 500px;
+}
+
+  @media screen and (max-width: 550px) {
+    .image.featured img {
+      width: 100%;
+      max-width: 350px;
+    }
   }
