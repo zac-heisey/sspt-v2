@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: project
 title: Sample Project 1
 categories: photography illustration animation
 featured-image: images/pic01.jpg
