@@ -3360,3 +3360,24 @@ span.image {
 			}
 
 		}
+
+/* Project */
+
+	.project-details {
+    float: right;
+    margin-right: 10%;
+    width: 50%;
+  }
+
+		@media screen and (max-width: 995px) {
+			.project-details {
+				width: 40%
+			}
+		}
+
+		@media screen and (max-width: 800px) {
+			.project-details {
+				margin-right: 0;
+				width: 100%
+			}
+		}
