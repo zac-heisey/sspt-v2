@@ -2381,11 +2381,6 @@ span.image {
 				width: 100%;
 			}
 
-		.image.featured img {
-			width: 100%;
-			max-width: 588px;
-		}
-
 			@media screen and (max-width: 736px) {
 
 				.image.main {
