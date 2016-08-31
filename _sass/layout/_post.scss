@@ -1,0 +1,24 @@
+///
+/// Phantom by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Post */
+
+.image.blog {
+  float: left;
+  margin-right: 2%;
+  margin-bottom: 0.5%
+}
+
+.image.blog img {
+  width: 100%;
+  max-width: 500px;
+}
+
+  @media screen and (max-width: 550px) {
+    .image.blog img {
+      max-width: 350px;
+    }
+  }
