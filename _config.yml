@@ -45,4 +45,17 @@ defaults:
       layout: post
       categories: ""
       tags: []
-      featured-image: ""    
+      featured-image: ""
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      featured-image: ""
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+      tags: []
+      featured-image: ""      
