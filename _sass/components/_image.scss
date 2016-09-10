@@ -50,15 +50,35 @@
 
 		&.main {
 			display: block;
-			margin: 0 0 (_size(element-margin) * 1.5) 0;
+			margin: 0 0 (_size(element-margin)) 0;
 			width: 100%;
 
 			img {
 				max-width: 100%;
+				margin-left: auto;
+				margin-right: auto;
 			}
 
 			@include breakpoint(small) {
 				margin: 0 0 _size(element-margin) 0;
 			}
 		}
+
+/* Featured Image */
+
+	&.featured {
+		display: block;
+		margin: 0 0 (_size(element-margin)) 0;
+		width: 100%;
+
+		img {
+			max-width: 100%;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		@include breakpoint(small) {
+			margin: 0 0 _size(element-margin) 0;
+		}
 	}
+}
