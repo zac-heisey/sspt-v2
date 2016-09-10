@@ -5,33 +5,3 @@
 ///
 
 /* Project */
-
-.project-details {
-  float: right;
-  margin: 0 5%;
-  width: 40%;
-}
-
-  @media screen and (max-width: 1000px) {
-    .project-details {
-      width: 30%
-    }
-  }
-
-  @media screen and (max-width: 880px) {
-    .project-details {
-      margin-right: 0;
-      width: 100%
-    }
-  }
-
-.image.featured {
-  width: 100%;
-  margin: 0 0 3em 0;
-}
-
-.image.featured img {
-  max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-}
