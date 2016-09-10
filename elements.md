@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: Elements
 ---
-
-<h1>{{ page.title }}</h1>
 
 <section>
 <h2>Text</h2>
