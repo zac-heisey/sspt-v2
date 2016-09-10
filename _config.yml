@@ -58,4 +58,5 @@ defaults:
     values:
       layout: project
       tags: []
-      featured-image: ""      
+      featured-image: ""
+      homepage-thumbnail: "" 
