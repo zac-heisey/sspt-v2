@@ -3,6 +3,8 @@ layout: default
 title: Elements
 ---
 
+<h1>{{ page.title }}</h1>
+
 <section>
 <h2>Text</h2>
 <p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
