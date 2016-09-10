@@ -25,14 +25,13 @@
     }
   }
 
-.image.featured img {
-  width: 200%;
-  max-width: 500px;
+.image.featured {
+  width: 100%;
+  margin: 0 0 3em 0;
 }
 
-  @media screen and (max-width: 550px) {
-    .image.featured img {
-      width: 100%;
-      max-width: 350px;
-    }
-  }
+.image.featured img {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
