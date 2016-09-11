@@ -6,6 +6,13 @@
 
 /* Image */
 
+img {
+	border-radius: _size(border-radius);
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+} /* For images added via Markdown and/or without class="image" */
+
 	.image {
 		border-radius: _size(border-radius);
 		border: 0;
