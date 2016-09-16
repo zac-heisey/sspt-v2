@@ -2,7 +2,7 @@
 	<h2>Menu</h2>
 	<ul>
 
-		{% for navitem in site.data.sidebar_menu | sort: 'priority' %}
+		{% for navitem in site.data.menu_info | sort: 'priority' %}
 		<li><a href="{{ navitem.url | prepend: site.baseurl }}">{{ navitem.title }}</a></li>
 		{% endfor %}
 	</ul>
