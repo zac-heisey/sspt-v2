@@ -15,15 +15,6 @@ url: "" # the base hostname & protocol for your site
 # Logo settings
 logo-placeholder: images/logo.svg
 
-# Social settings
-github_username: scottgallant
-twitter_username: forestryio
-facebook_URL: forestryio
-instagram_username: forestryio
-dribbble_username: forestryio
-500px_username: forestryio
-phone: (123) 456-7890
-
 # Build settings
 markdown: kramdown
 
