@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Posts
+title: Blog
 ---
 
 This is your blog page, where all of the content in your `_posts` directory will be published.
