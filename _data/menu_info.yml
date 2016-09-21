@@ -8,7 +8,7 @@
 - title: Generic Page
   url: /generic.html
   priority: 3
-- title: Blog Posts
+- title: Blog
   url: /blog.html
   priority: 4
 ---
