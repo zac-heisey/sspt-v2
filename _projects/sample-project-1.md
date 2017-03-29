@@ -24,6 +24,6 @@ To be the first to enter the cosmos, to engage, single-handed, in an unprecedent
 
 
 <!-- Referenced Images -->
-[1]: {{ site.baseurl }}/images/pic16.jpg
-[2]: {{ site.baseurl }}/images/pic14.jpg
-[3]: {{ site.baseurl }}/images/pic15.jpg
+[1]: {{ site.url }}/images/pic16.jpg
+[2]: {{ site.url }}/images/pic14.jpg
+[3]: {{ site.url }}/images/pic15.jpg

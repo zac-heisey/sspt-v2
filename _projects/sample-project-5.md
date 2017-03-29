@@ -24,6 +24,6 @@ Curious that we spend more time congratulating people who have succeeded than en
 
 
 <!-- Referenced Images -->
-[1]: {{ site.baseurl }}/images/pic26.jpg
-[2]: {{ site.baseurl }}/images/pic27.jpg
-[3]: {{ site.baseurl }}/images/pic28.jpg
+[1]: {{ site.url }}/images/pic26.jpg
+[2]: {{ site.url }}/images/pic27.jpg
+[3]: {{ site.url }}/images/pic28.jpg

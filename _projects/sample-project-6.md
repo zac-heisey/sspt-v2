@@ -23,6 +23,6 @@ We want to explore. We’re curious people. Look back over history, people have 
 
 
 <!-- Referenced Images -->
-[1]: {{ site.baseurl }}/images/pic29.jpg
-[2]: {{ site.baseurl }}/images/pic30.jpg
-[3]: {{ site.baseurl }}/images/pic31.jpg
+[1]: {{ site.url }}/images/pic29.jpg
+[2]: {{ site.url }}/images/pic30.jpg
+[3]: {{ site.url }}/images/pic31.jpg

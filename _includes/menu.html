@@ -3,7 +3,7 @@
 	<ul>
 
 		{% for navitem in site.data.menu_info | sort: 'priority' %}
-		<li><a href="{{ navitem.url | prepend: site.baseurl }}">{{ navitem.title }}</a></li>
+		<li><a href="{{ navitem.url | prepend: site.url }}">{{ navitem.title }}</a></li>
 		{% endfor %}
 	</ul>
 </nav>

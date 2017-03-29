@@ -23,6 +23,6 @@ As we got further and further away, it [the Earth] diminished in size. Finally i
 
 
 <!-- Referenced Images -->
-[1]: {{ site.baseurl }}/images/pic20.jpg
-[2]: {{ site.baseurl }}/images/pic21.jpg
-[3]: {{ site.baseurl }}/images/pic22.jpg
+[1]: {{ site.url }}/images/pic20.jpg
+[2]: {{ site.url }}/images/pic21.jpg
+[3]: {{ site.url }}/images/pic22.jpg

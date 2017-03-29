@@ -24,6 +24,6 @@ There can be no thought of finishing for ‘aiming for the stars.’ Both figura
 
 
 <!-- Referenced Images -->
-[1]: {{ site.baseurl }}/images/pic17.jpg
-[2]: {{ site.baseurl }}/images/pic18.jpg
-[3]: {{ site.baseurl }}/images/pic19.jpg
+[1]: {{ site.url }}/images/pic17.jpg
+[2]: {{ site.url }}/images/pic18.jpg
+[3]: {{ site.url }}/images/pic19.jpg

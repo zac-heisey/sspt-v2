@@ -8,9 +8,9 @@ title: Projects Test
 {% for project in site.projects %}
 	<article class="style{{ forloop.index }}">
 		<span class="image">
-			<img src="{{ site.url }}{{ site.baseurl }}/{{ project.featured-image }}" alt="" />
+			<img src="{{ site.url }}/{{ project.featured-image }}" alt="" />
 		</span>
-		<a href="{{ project.url | prepend:site.baseurl | prepend:site.url }}">
+		<a href="{{ project.url | prepend:site.url }}">
 			<h2>{{ project.title }}</h2>
 			<div class="content">
 				<p>{{ project.tags | truncate: 100 }}</p>
