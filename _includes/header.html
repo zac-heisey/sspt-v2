@@ -10,15 +10,14 @@
 
 					{% if site.data.site_settings_info.logo_image %}
 
-					<img src="{{ site.url }}/{{ site.data.site_settings_info.logo_image }}" alt="{{ site.data.site_settings_info.title }} Logo" />
+					<img src="{{ site.url }}/{{ site.data.site_settings_info.logo_image }}" alt="{{ site.data.site_settings_info.title }} Logo" /></span>
 
 					{% else %}
 
-					<img src="{{ site.url }}/{{ site.logo-placeholder }}" alt="Placeholder Logo" />
+				 	<span class="title">{{ site.data.site_settings_info.title }}</span>
 
 					{% endif %}
 
-				</span><span class="title">{{ site.data.site_settings_info.title }}</span>
 			</a>
 			<!-- Nav -->
 			<nav>

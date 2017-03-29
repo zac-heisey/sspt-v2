@@ -13,7 +13,7 @@ url: https://sspt-v2.netlify.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog
 
 # Logo settings
-logo-placeholder: images/logo.svg
+logo-placeholder: images/logo/logo_text_waves.png
 
 # Build settings
 markdown: kramdown

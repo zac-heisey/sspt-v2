@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Home
-primary_description: This is Phantom, a free, fully responsive site<br> template designed by <a href="http://html5up.net">HTML5 UP</a>.
-secondary_description: Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.
+title: Physical Therapy in Imperial Beach
+meta_description: Silver Stand Physical Therapy provides physical therapy services to patients throughout Imperial Beach and the South Bay. Schedule an initial evaluation today!
+primary_description: Welcome to Silver Strand Physical Therapy
+secondary_description: Silver Strand Physical Therapy is a hybrid physical therapy clinic combining traditional physical therapy tools and approaches with Applied Functional Science (AFS) to provide patients with the most comprehensive approach to their care.
 ---
 
 <header>
