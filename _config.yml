@@ -9,8 +9,8 @@
 title: Phantom
 email: youremailaddress@gmail.com
 description: The Jekyll version of the Phantom theme by HTML5 UP.
-baseurl: "/phantom-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: http://www.silverstrandpt.com # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
 
 # Logo settings
 logo-placeholder: images/logo.svg
