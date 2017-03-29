@@ -9,7 +9,7 @@
 title: Phantom
 email: youremailaddress@gmail.com
 description: The Jekyll version of the Phantom theme by HTML5 UP.
-url: http://www.silverstrandpt.com # the base hostname & protocol for your site
+url: https://sspt-v2.netlify.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog
 
 # Logo settings
