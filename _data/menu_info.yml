@@ -1,14 +1,12 @@
 ---
 - title: Home
   url: /
-  priority: 1
 - title: Elements
   url: /elements
-  priority: 2
 - title: Generic Page
   url: /generic
-  priority: 3
 - title: Blog
   url: /blog
-  priority: 4
+- title: Contact
+  url: /#contact
 ---
