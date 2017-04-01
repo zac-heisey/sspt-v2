@@ -8,13 +8,13 @@
 			<a href="{{ site.url }}/" class="logo">
 				<span class="symbol">
 
-					{% if site.data.site_settings_info.logo_image %}
+					{% if site.logo %}
 
-					<img src="{{ site.url }}/{{ site.data.site_settings_info.logo_image }}" alt="{{ site.data.site_settings_info.title }} Logo" /></span>
+					<img src="{{ site.url }}/{{ site.logo }}" alt="{{ site.title }} Logo" /></span>
 
 					{% else %}
 
-				 	<span class="title">{{ site.data.site_settings_info.title }}</span>
+				 	<span class="title">{{ site.title }}</span>
 
 					{% endif %}
 
