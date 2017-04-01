@@ -1,17 +1,13 @@
 ---
-layout: project
+layout: page
 title: Sample Project 4
-tags:
-- photography
-- buildings
-- city
+meta_description: This is a test description
 featured-image: images/pic04.jpg
 homepage-thumbnail: images/pic23.jpg
+homepage-description: Activated charcoal affogato mustache selvage, woke blog wolf YOLO readymade mumblecore bushwick tilde keytar sartorial unicorn. Knausgaard tattooed pinterest pug everyday carry tumblr. Ugh pitchfork kogi skateboard tote bag.
 ---
 
 **Project Description:** This is a sample project page. You can add more projects in the `_projects` directory of your Jekyll build. Be sure to include the proper [Front Matter](https://jekyllrb.com/docs/frontmatter/) for each of your projects, including your project's `title`, applicable `categories`, and a `featured-image`.
-
-**Project Tags:** {{ page.tags | join: ', '}}
 
 ![sample project image][1]  
 The path of a cosmonaut is not an easy, triumphant march to glory. You have to get to know the meaning not just of joy but also of grief, before being allowed in the spacecraft cabin. Astronomy compels the soul to look upward, and leads us from this world to another.

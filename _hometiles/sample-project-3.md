@@ -1,16 +1,13 @@
 ---
-layout: project
+layout: page
 title: Sample Project 3
-tags:
-- photography
-- people
+meta_description: This is a test description
 featured-image: images/pic03.jpg
 homepage-thumbnail: images/pic20.jpg
+homepage-description: Activated charcoal affogato mustache selvage, woke blog wolf YOLO readymade mumblecore bushwick tilde keytar sartorial unicorn. Knausgaard tattooed pinterest pug everyday carry tumblr. Ugh pitchfork kogi skateboard tote bag.
 ---
 
-**Project Description:** This is a sample project page. You can add more projects in the `_projects` directory of your Jekyll build. Be sure to include the proper [Front Matter](https://jekyllrb.com/docs/frontmatter/) for each of your projects, including your project's `title`, applicable `categories`, and a `featured-image`.
-
-**Project Tags:** {{ page.tags | join: ', '}}
+**Project Description:** This is a sample project page. You can add more projects in the `_projects` directory of your Jekyll build. Be sure to include the proper [Front Matter](https://jekyllrb.com/docs/frontmatter/) for each of your
 
 ![sample project image][1]  
 We are all connected; To each other, biologically. To the earth, chemically. To the rest of the universe atomically. It suddenly struck me that that tiny pea, pretty and blue, was the Earth. I put up my thumb and shut one eye, and my thumb blotted out the planet Earth. I didn't feel like a giant. I felt very, very small.

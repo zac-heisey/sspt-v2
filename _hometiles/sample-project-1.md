@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Sample Project 1
 meta_description: This is a test description
 featured-image: images/pic01.jpg
@@ -8,8 +8,6 @@ homepage-description: Activated charcoal affogato mustache selvage, woke blog wo
 ---
 
 **Project Description:** This is a sample project page. You can add more projects in the `_projects` directory of your Jekyll build. Be sure to include the proper [Front Matter](https://jekyllrb.com/docs/frontmatter/) for each of your projects, including your project's `title`, applicable `categories`, and a `featured-image`.
-
-**Project Tags:** {{ page.tags | join: ', '}}
 
 ![sample project image][1]  
 If you could see the earth illuminated when you were in a place as dark as night, it would look to you more splendid than the moon. Across the sea of space, the stars are other suns.
