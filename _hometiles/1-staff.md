@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Sample Project 1
-meta_description: This is a test description
+title: Our Staff
+permalink: /staff
+meta_description: The staff at Silver Strand Physical Therapy is comprised of certified physical therapists who specialize in range of comprehensive treatment options.
 featured-image: images/pic01.jpg
 homepage-thumbnail: images/pic16.jpg
-homepage-description: Activated charcoal affogato mustache selvage, woke blog wolf YOLO readymade mumblecore bushwick tilde keytar sartorial unicorn. Knausgaard tattooed pinterest pug everyday carry tumblr. Ugh pitchfork kogi skateboard tote bag.
+homepage-description: Meet the physical therapists at Silver Strand Physical Therapy.
 ---
 
 **Project Description:** This is a sample project page. You can add more projects in the `_projects` directory of your Jekyll build. Be sure to include the proper [Front Matter](https://jekyllrb.com/docs/frontmatter/) for each of your projects, including your project's `title`, applicable `categories`, and a `featured-image`.

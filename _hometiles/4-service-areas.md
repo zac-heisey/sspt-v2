@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Sample Project 4
+title: Service Areas
+permalink: /service-areas
 meta_description: This is a test description
 featured-image: images/pic04.jpg
 homepage-thumbnail: images/pic23.jpg
-homepage-description: Activated charcoal affogato mustache selvage, woke blog wolf YOLO readymade mumblecore bushwick tilde keytar sartorial unicorn. Knausgaard tattooed pinterest pug everyday carry tumblr. Ugh pitchfork kogi skateboard tote bag.
+homepage-description: Located in Imperial Beach, we provide physical therapy through to patients throughout the South Bay.
 ---
 
 **Project Description:** This is a sample project page. You can add more projects in the `_projects` directory of your Jekyll build. Be sure to include the proper [Front Matter](https://jekyllrb.com/docs/frontmatter/) for each of your projects, including your project's `title`, applicable `categories`, and a `featured-image`.

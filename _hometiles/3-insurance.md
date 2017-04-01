@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Sample Project 3
+title: Health Insurance
+permalink: /insurance
 meta_description: This is a test description
 featured-image: images/pic03.jpg
 homepage-thumbnail: images/pic20.jpg
-homepage-description: Activated charcoal affogato mustache selvage, woke blog wolf YOLO readymade mumblecore bushwick tilde keytar sartorial unicorn. Knausgaard tattooed pinterest pug everyday carry tumblr. Ugh pitchfork kogi skateboard tote bag.
+homepage-description: We accept TriCare, Medicare, Aetna, Anthem Blue Shield, and more. Affordable cash rates are also available. 
 ---
 
 **Project Description:** This is a sample project page. You can add more projects in the `_projects` directory of your Jekyll build. Be sure to include the proper [Front Matter](https://jekyllrb.com/docs/frontmatter/) for each of your
