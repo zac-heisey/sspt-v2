@@ -2,10 +2,10 @@
 layout: page
 title: Health Insurance
 permalink: /insurance
-meta_description: This is a test description
+meta_description: We accept Tricare, Medicare/Medical, Aetna, Blue Cross, Blue Shield of CA, and numerous other insurance carriers. Affordable cash rates are available as well.
 featured-image: images/pic03.jpg
 homepage-thumbnail: images/pic20.jpg
-homepage-description: We accept TriCare, Medicare, Aetna, Anthem Blue Shield, and more. Affordable cash rates are also available. 
+homepage-description: We accept TriCare, Medicare, Aetna, Anthem Blue Shield, and more. Affordable cash rates are also available.
 ---
 
 **Project Description:** This is a sample project page. You can add more projects in the `_projects` directory of your Jekyll build. Be sure to include the proper [Front Matter](https://jekyllrb.com/docs/frontmatter/) for each of your
