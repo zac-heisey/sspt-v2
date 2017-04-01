@@ -2,6 +2,15 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
+
+// Libs
+
+	@import 'libs/vars';
+	@import 'libs/functions';
+	@import 'libs/mixins';
+	@import 'libs/skel';
+
+@import 'font-awesome.min.css';
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900');
 
 /*
@@ -65,11 +74,3 @@
 	@import 'layout/wrapper';
 	@import 'layout/project';
 	@import 'layout/post';
-
-// Libs
-
-	@import 'libs/vars';
-	@import 'libs/functions';
-	@import 'libs/mixins';
-	@import 'libs/skel';
-	@import 'font-awesome.min.css';
