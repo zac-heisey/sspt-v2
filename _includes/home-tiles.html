@@ -1,0 +1,17 @@
+<section class="tiles">
+
+	{% for page in site.hometiles %}
+		<article class="style{{ forloop.index }}">
+			<span class="image">
+				<img src="{{ site.url }}/{{ page.homepage-thumbnail }}" alt="" />
+			</span>
+			<a href="{{ page.url | prepend:site.url }}">
+				<h2>{{ page.title }}</h2>
+				<div class="content">
+					<p>{{ page.homepage-description | truncate: 250 }}</p>
+				</div>
+			</a>
+		</article>
+	{% endfor %}
+
+</section>

@@ -23,9 +23,12 @@ home-link-in-menu: yes
 
 # Collections
 collections:
-  projects:
+  hometiles:
     output: true
-    permalink: /projects/:path/
+    permalink: /:path/
+  pagetiles:
+    output: true
+    permalink: /:path/
 
 # Defaults
 defaults:
