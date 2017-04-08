@@ -26,36 +26,20 @@
 		<section>
 			<h2>Follow</h2>
 			<ul class="icons">
-				{% if site.data.footer_info.twitter_url and site.data.footer_info.twitter_url != "" %}
 				<li><a href="{{ site.data.footer_info.twitter_url }}" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
-				{% endif %}
-				{% if site.data.footer_info.facebook_url and site.data.footer_info.facebook_url != "" %}
 				<li><a href="{{ site.data.footer_info.facebook_url }}" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
-				{% endif %}
-				{% if site.data.footer_info.instagram_url and site.data.footer_info.instagram_url != "" %}
 				<li><a href="{{ site.data.footer_info.instagram_url }}" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
-				{% endif %}
-				{% if site.data.footer_info.dribbble_url and site.data.footer_info.dribbble_url != "" %}
-				<li><a href="{{ site.data.footer_info.dribbble_url }}" class="icon style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
-				{% endif %}
-				{% if site.data.footer_info.github_url and site.data.footer_info.github_url != "" %}
-				<li><a href="{{ site.data.footer_info.github_url }}" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
-				{% endif %}
-				{% if site.data.footer_info.500px_url and site.data.footer_info.500px_url != "" %}
-				<li><a href="{{ site.data.footer_info.500px_url }}" class="icon style2 fa-500px"><span class="label">500px</span></a></li>
-				{% endif %}
-				{% if site.data.footer_info.phone and site.data.footer_info.phone != "" %}
 				<li><a href="tel:{{ site.data.footer_info.phone }}" class="icon style2 fa-phone"><span class="label">Phone</span></a></li>
-				{% endif %}
-				{% if site.data.footer_info.email and site.data.footer_info.email != "" %}
 				<li><a href="mailto:{{ site.data.footer_info.email }}" class="icon style2 fa-envelope-o"><span class="label">Email</span></a></li>
-				{% endif %}
+				<li>{{ site.data.footer_info.address }}</li>
+				<li>Phone: {{ site.data.footer_info.phone }} | Fax: {{ site.data.footer_info.fax }}</li>
 			</ul>
 		</section>
 		<ul class="copyright">
-			<li>&copy; {{ site.title }}. All rights reserved</li>
-			<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-			<li>Jekyll integration: <a href="http://andrewbanchi.ch">Andrew Banchich</a></li>
+			<li>&copy; {{ site.title }} 2017. All rights reserved.</li>
+			<li>Silver Strand Physical Therapy is an affiliate of <a href="http://www.risephysicaltherapy.com">RISE Physical Therapy</a></li>
+			<li>Theme Design: <a href="http://html5up.net">HTML5 UP</a></li>
+			<li>Web Strategy: <a href="http://www.sageweb.co">Sage Web Co.</a></li>
 		</ul>
 	</div>
 </footer>
