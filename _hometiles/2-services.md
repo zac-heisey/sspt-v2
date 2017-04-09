@@ -19,4 +19,4 @@ Silver Strand Physical Therapy specializes in a wide range of treatment options 
 - Pediatric Physical Therapy & Rehabilitation
 - Elite Sports Training & Sports Rehabilitation
 
-Feel free to [contact us]({{ page.permalink }}/#contact), or check out our physical therapy clinic service areas today!
+Feel free to [contact us]({{ page.permalink }}/#contact), or check out our [physical therapy service areas](/service-areas) today!
