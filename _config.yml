@@ -29,28 +29,3 @@ collections:
   stafftiles:
     output: true
     permalink: /:path/
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      categories: ""
-      tags: []
-      featured-image: ""
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: page
-      featured-image: ""
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: project
-      tags: []
-      featured-image: ""
-      homepage-thumbnail: ""
