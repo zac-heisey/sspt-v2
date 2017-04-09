@@ -3,24 +3,27 @@ layout: page
 title: Health Insurance
 permalink: /insurance
 meta_description: We accept Tricare, Medicare/Medical, Aetna, Blue Cross, Blue Shield of CA, and numerous other insurance carriers. Affordable cash rates are available as well.
-featured-image: images/pic03.jpg
+featured-image:
 homepage-thumbnail: images/pic20.jpg
 homepage-description: We accept TriCare, Medicare, Aetna, Anthem Blue Shield, and more. Affordable cash rates are also available.
 ---
 
-**Project Description:** This is a sample project page. You can add more projects in the `_projects` directory of your Jekyll build. Be sure to include the proper [Front Matter](https://jekyllrb.com/docs/frontmatter/) for each of your
+Silver Strand Physical Therapy is contracted with numerous health insurance plans in order to provide in-network physical therapy services. We are an in-network provider with:
 
-![sample project image][1]  
-We are all connected; To each other, biologically. To the earth, chemically. To the rest of the universe atomically. It suddenly struck me that that tiny pea, pretty and blue, was the Earth. I put up my thumb and shut one eye, and my thumb blotted out the planet Earth. I didn't feel like a giant. I felt very, very small.
+- Aetna
+- Align
+- ASH (American Specialty Health)
+- Anthem Blue Cross
+- Blue Shield
+- Cigna
+- Medicare
+- Medi-Medi Insurance
+- MediRisk
+- Scripps EPO/PPO
+- TriCare
+- TriWest
+- United HealthCare
+- Worker's Compensation
+- Veterans Administration
 
-![sample project image][2]  
-When I orbited the Earth in a spaceship, I saw for the first time how beautiful our planet is. Mankind, let us preserve and increase this beauty, and not destroy it!
-
-![sample project image][3]  
-As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.
-
-
-<!-- Referenced Images -->
-[1]: {{ site.url }}/images/pic20.jpg
-[2]: {{ site.url }}/images/pic21.jpg
-[3]: {{ site.url }}/images/pic22.jpg
+Affordable cash rates are also available for various [physical therapy services](/services). Please [contact our office]({{ page.permalink }}/#contact) for specific coverage related to Community Health Group, Health Net, and First Health.
