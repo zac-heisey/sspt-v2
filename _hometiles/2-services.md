@@ -3,24 +3,20 @@ layout: page
 title: Our Services
 permalink: /services
 meta_description: From injury prevention to rehabilitation, balance training to reconditioning, Silver Strand Physical Therapy provides comprehensive treatment services.
-featured-image: images/pic02.jpg
+featured-image:
 homepage-thumbnail: images/pic17.jpg
 homepage-description: We offer a variety of physical therapy treatment options.
 ---
 
-**Project Description:** This is a sample project page. You can add more projects in the `_projects` directory of your Jekyll build. Be sure to include the proper [Front Matter](https://jekyllrb.com/docs/frontmatter/) for each of your projects, including your project's `title`, applicable `categories`, and a `featured-image`.
+Silver Strand Physical Therapy specializes in a wide range of treatment options for our patients, including:
 
-![sample project image][1]  
-Where ignorance lurks, so too do the frontiers of discovery and imagination. As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore . . . and this is exploration at its greatest.
+- Injury Prevention & Exercise Programs
+- Acute Injury & Post-Op Care
+- Reconditioning Exercises & Deconditioning Prevention
+- Balance Training & Exercises
+- Neurological Rehabilitation & Stroke/CVA Recovery
+- Biomechanical Assessment & Analysis
+- Pediatric Physical Therapy & Rehabilitation
+- Elite Sports Training & Sports Rehabilitation
 
-![sample project image][2]  
-As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.
-
-![sample project image][3]  
-There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.
-
-
-<!-- Referenced Images -->
-[1]: {{ site.url }}/images/pic17.jpg
-[2]: {{ site.url }}/images/pic18.jpg
-[3]: {{ site.url }}/images/pic19.jpg
+Feel free to [contact us]({{ page.permalink }}/#contact), or check out our physical therapy clinic service areas today!
