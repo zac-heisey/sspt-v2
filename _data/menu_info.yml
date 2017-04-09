@@ -1,10 +1,12 @@
 ---
 - title: Home
   url: /
-- title: Elements
-  url: /elements
-- title: Generic Page
-  url: /generic
+- title: Our Staff
+  url: /staff
+- title: Our Services
+  url: /services
+- title: Insurance
+  url: /insurance
 - title: Blog
   url: /blog
 - title: Contact
