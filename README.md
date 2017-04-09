@@ -1,4 +1,4 @@
-# Silver Strand Physical Therapy (version 2) - Jekyll - Phantom Theme Customization
+# Silver Strand PT Site Redesign - 'Phantom' Jekyll theme
 
 
 Original theme design by AJ (aj@lkn.io | @ajlkn) at [HTML5 UP](https://html5up.net/).
