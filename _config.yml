@@ -27,5 +27,3 @@ collections:
     output: true
     permalink: /:path/
   stafftiles:
-    output: true
-    permalink: /:path/
