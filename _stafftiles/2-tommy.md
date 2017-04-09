@@ -1,22 +1,10 @@
 ---
 layout: page
-title: Our Services
-permalink: /services
-meta_description: From injury prevention to rehabilitation, balance training to reconditioning, Silver Strand Physical Therapy provides comprehensive treatment services.
-featured-image:
-homepage-thumbnail: images/pic17.jpg
-homepage-description: We offer a variety of physical therapy treatment options.
+title: Thomas Russell
+creds: PT, DPT, CAFS
+education1: Bachelor's Degree in Kinesiology | San Diego State University
+education2: Doctor of Physical Therapy | Northern Arizona University
+bio-thumbnail: images/staff/tommy_sspt.png
 ---
 
-Silver Strand Physical Therapy specializes in a wide range of treatment options for our patients, including:
-
-- Injury Prevention & Exercise Programs
-- Acute Injury & Post-Op Care
-- Reconditioning Exercises & Deconditioning Prevention
-- Balance Training & Exercises
-- Neurological Rehabilitation & Stroke/CVA Recovery
-- Biomechanical Assessment & Analysis
-- Pediatric Physical Therapy & Rehabilitation
-- Elite Sports Training & Sports Rehabilitation
-
-Feel free to [contact us]({{ page.permalink }}/#contact), or check out our [physical therapy service areas](/service-areas) today!
+From his roots in competitive team sports, Thomas found a passion for sport-specific strength and conditioning which lead him to pursue a career in physical therapy. He is currently working toward earning his AFS certification, and will be pursing his Certified Strength and Conditioning Specialist certification in the near future as well.
