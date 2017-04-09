@@ -1,0 +1,14 @@
+<section class="tiles">
+
+	{% for page in site.stafftiles %}
+		<article>
+			<span class="image">
+				<img src="{{ site.url }}/{{ page.bio-thumbnail }}" alt="" />
+			</span>
+			<h2>{{ page.title }}</h2>
+			{{ page.content }}<br>
+			{{ page.education1 }}
+		</article>
+	{% endfor %}
+
+</section>

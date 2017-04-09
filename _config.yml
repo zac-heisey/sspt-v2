@@ -26,7 +26,7 @@ collections:
   hometiles:
     output: true
     permalink: /:path/
-  pagetiles:
+  stafftiles:
     output: true
     permalink: /:path/
 
