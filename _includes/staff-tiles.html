@@ -2,12 +2,12 @@
 
 	{% for page in site.stafftiles %}
 		<article>
-			<span class="image">
+			<span>
 				<img src="{{ site.url }}/{{ page.bio-thumbnail }}" alt="" />
 			</span>
 			<h2>{{ page.title }}</h2>
-			{{ page.content }}<br>
-			{{ page.education1 }}
+			<h4>{{ page.creds }}</h4>
+			{{ page.content }}
 		</article>
 	{% endfor %}
 
