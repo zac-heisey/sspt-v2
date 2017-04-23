@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Thomas Russell
+layout: page
 creds: PT, DPT, CAFS
 education1: Bachelor's Degree in Kinesiology | San Diego State University
 education2: Doctor of Physical Therapy | Northern Arizona University

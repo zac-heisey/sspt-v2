@@ -1,29 +1,25 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+---
 title: Silver Strand Physical Therapy
-email: admin@silverstrandphysicaltherapy.com
-description: Silver Stand Physical Therapy provides physical therapy services to patients throughout Imperial Beach and the South Bay. Schedule your appointment today!
-url: https://sspt-v2.netlify.com # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog
-
-# Logo settings
-logo: images/logos/logo_text_waves.png
-
-# Build settings
-markdown: kramdown
-
-# Layout settings
-home-link-in-menu: yes
-
-# Collections
+timezone: UTC
 collections:
   hometiles:
+    title: Hometiles
     output: true
-    permalink: /:path/
+    permalink: "/:path/"
+  posts:
+    title: Posts
+    output: true
   stafftiles:
+    title: Stafftiles
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+email: admin@silverstrandphysicaltherapy.com
+description: Silver Stand Physical Therapy provides physical therapy services to patients
+  throughout Imperial Beach and the South Bay. Schedule your appointment today!
+url: https://sspt-v2.netlify.com
+baseurl: 
+logo: images/logos/logo_text_waves.png
+markdown: kramdown
+home-link-in-menu: true

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Angela Wunder
+layout: page
 creds: PT, DPT
 education1: Bachelor's Degree in Biology | Temple University
 education2: Doctor of Physical Therapy | University of St. Augustine

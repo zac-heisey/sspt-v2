@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Allison Gentry
+layout: page
 creds: PT, DPT, CAFS
-education1:
-education2:
+education1: 
+education2: 
 bio-thumbnail: images/staff/allison.jpg
 ---
 

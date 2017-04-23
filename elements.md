@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Elements
-meta_description: This is the elements page meta description. Replace with something cool!
+layout: page
+meta_description: This is the elements page meta description. Replace with something
+  cool!
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Navid Hannanvash
+layout: page
 creds: PT, DPT, ATC, CSCS, CAFS, FAFS | CEO & Owner
 education1: Bachelor's Degree in Athletic Training | University of Michigan
 education2: Doctor of Physical Therapy | University of Southern California

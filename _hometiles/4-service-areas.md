@@ -1,11 +1,12 @@
 ---
-layout: page
 title: Service Areas
-permalink: /service-areas
+permalink: "/service-areas"
+layout: page
 meta_description: This is a test description
-featured-image:
+featured-image: 
 homepage-thumbnail: images/pic23.jpg
-homepage-description: Located in Imperial Beach, we provide physical therapy through to patients throughout the South Bay.
+homepage-description: Located in Imperial Beach, we provide physical therapy through
+  to patients throughout the South Bay.
 ---
 
 Silver Strand Physical Therapy is located in Imperial Beach, allowing us to provide premier physical therapy treatment services to patients throughout the South Bay.
