@@ -6,7 +6,7 @@ meta_description: We accept Tricare, Medicare/Medical, Aetna, Blue Cross, Blue S
   of CA, and numerous other insurance carriers. Affordable cash rates are available
   as well.
 featured-image: 
-homepage-thumbnail: images/pic20.jpg
+homepage-thumbnail: uploads/images/pic20.jpg
 homepage-description: We accept TriCare, Medicare, Aetna, Anthem Blue Shield, and
   more. Affordable cash rates are also available.
 ---
