@@ -5,7 +5,7 @@ categories:
 - blog
 tags:
 - test-tag
-featured-image: "/uploads/images/cartoon_pt.png"
+featured-image: "/uploads/images/pic02.jpg"
 layout: post
 ---
 
