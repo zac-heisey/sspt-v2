@@ -1,14 +1,15 @@
 ---
-- title: Home
-  url:
-- title: Our Staff
-  url:
-- title: Our Services
-  url:
-- title: Insurance
-  url:
-- title: Blog
-  url:
-- title: Contact
-  url:
+navmenu:
+  - title: Home
+    url: /
+  - title: Our Staff
+    url: /staff
+  - title: Our Services
+    url: /services
+  - title: Insurance
+    url: /insurance
+  - title: Blog
+    url: /blog
+  - title: Contact
+    url: /#contact
 ---
