@@ -1,14 +1,14 @@
 ---
-- title: Home
+title: Home
   url: /
-- title: Our Staff
+title: Our Staff
   url: /staff
-- title: Our Services
+title: Our Services
   url: /services
-- title: Insurance
+title: Insurance
   url: /insurance
-- title: Blog
+title: Blog
   url: /blog
-- title: Contact
+title: Contact
   url: /#contact
 ---
