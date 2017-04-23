@@ -1,6 +1,6 @@
 ---
 title: Home
-  url: /
+  url: {{ site.url }}
 title: Our Staff
   url: /staff
 title: Our Services
