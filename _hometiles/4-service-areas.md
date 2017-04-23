@@ -3,8 +3,8 @@ title: Service Areas
 permalink: "/service-areas"
 layout: page
 meta_description: This is a test description
-featured-image: 
-homepage-thumbnail: uploads/images/pic23.jpg
+featured-image:
+homepage-thumbnail: uploads/images/pic19.jpg
 homepage-description: Located in Imperial Beach, we provide physical therapy through
   to patients throughout the South Bay.
 ---
