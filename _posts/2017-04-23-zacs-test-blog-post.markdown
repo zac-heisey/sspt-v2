@@ -5,8 +5,8 @@ categories:
 - blog
 tags:
 - test-tag
+featured-image: "/uploads/images/pic02.jpg"
 layout: post
-featured-image: uploads/images/pic02.jpg
 ---
 
 This is a test post to check some shizz out.
