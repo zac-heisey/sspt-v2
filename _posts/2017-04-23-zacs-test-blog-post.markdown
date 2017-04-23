@@ -6,6 +6,7 @@ categories:
 tags:
 - test-tag
 featured-image: "/uploads/cartoon_pt.png"
+layout: post
 ---
 
 This is a test post to check some shizz out.
