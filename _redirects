@@ -1,0 +1,6 @@
+# Netlify Dev Domain Redirects
+# https://sspt-v2.netlify.com/*   https://www.silverstrandpt.com/:splat    301!
+# http://sspt-v2.netlify.com/*    https://www.silverstrandpt.com/:splat    301!
+
+# Primary URL Redirects
+/physical-therapy-clinic  /service-areas  301
