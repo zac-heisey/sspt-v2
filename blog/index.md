@@ -1,6 +1,7 @@
 ---
 title: Blog
 layout: page
+description: Welcome to the Silver Strand Therapy blog. We have tons of great physical therapy resources to help you on your road to recovery, fitness, and optimal health.
 ---
 
 This is your blog page, where all of the content in your `_posts` directory will be published.
