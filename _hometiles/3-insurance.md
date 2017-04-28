@@ -5,7 +5,7 @@ layout: page
 description: We accept Tricare, Medicare/Medical, Aetna, Blue Cross, Blue Shield of
   CA, and numerous other insurance carriers. Affordable cash rates are available as
   well.
-featured-image: 
+featured-image:
 homepage-thumbnail: uploads/images/pic18.jpg
 homepage-description: We accept TriCare, Medicare, Aetna, Anthem Blue Shield, and
   more. Affordable cash rates are also available.
@@ -13,20 +13,28 @@ homepage-description: We accept TriCare, Medicare, Aetna, Anthem Blue Shield, an
 
 Silver Strand Physical Therapy is contracted with numerous health insurance plans in order to provide in-network physical therapy services. We are an in-network provider with:
 
-- Aetna
-- Align
-- ASH (American Specialty Health)
-- Anthem Blue Cross
-- Blue Shield
-- Cigna
-- Medicare
-- Medi-Medi Insurance
-- MediRisk
-- Scripps EPO/PPO
-- TriCare
-- TriWest
-- United HealthCare
-- Worker's Compensation
-- Veterans Administration
+<section id="insurance-providers">
+  <div class="provider-list">
+    <li>Aetna</li>
+    <li>Align</li>
+    <li>ASH (American Specialty Health)</li>
+    <li>Anthem Blue Cross</li>
+    <li>Blue Shield</li>
+  </div>
+  <div class="provider-list">
+    <li>Cigna</li>
+    <li>Medicare</li>
+    <li>Medi-Medi Insurance</li>
+    <li>MediRisk</li>
+    <li>Scripps EPO/PPO</li>
+  </div>
+  <div class="provider-list">
+    <li>TriCare</li>
+    <li>TriWest</li>
+    <li>United HealthCare</li>
+    <li>Worker's Compensation</li>
+    <li>Veterans Administration</li>
+  </div>
+</section>
 
 Affordable cash rates are also available for various [physical therapy services](/services). Please [contact our office]({{ page.permalink }}/#contact) for specific coverage related to Community Health Group, Health Net, and First Health.
