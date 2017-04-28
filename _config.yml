@@ -21,12 +21,12 @@ defaults:
     type: posts
   values:
     layout: post
-    categories: 'blog'
+    categories: blog
     featured-image: ''
     permalink: "/:categories/:title"
     description: ''
 url: https://sspt-v2.netlify.com
-baseurl:
+baseurl: 
 email: admin@silverstrandphysicaltherapy.com
 description: Silver Stand Physical Therapy provides physical therapy services to patients
   throughout Imperial Beach and the South Bay. Schedule your appointment today!
