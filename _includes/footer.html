@@ -8,17 +8,18 @@
 			<form method="post" action="https://formspree.io/{{ site.email }}"
       method="POST">
 				<div class="field half first">
-					<input type="text" name="name" id="name" placeholder="Name" />
+					<input type="text" name="name" id="name" placeholder="Name" required>
 				</div>
 				<div class="field half">
-					<input type="email" name="_replyto" id="email" placeholder="Email" />
+					<input type="email" name="_replyto" id="email" placeholder="Email" required>
 				</div>
 				<div class="field">
-					<textarea name="message" id="message" placeholder="Message"></textarea>
+					<textarea name="message" id="message" placeholder="Message" required></textarea>
 				</div>
 				<ul class="actions">
 					<li>
-						<input type="submit" value="Send" class="special" />
+						<input type="submit" value="Send" class="special">
+						<input type="hidden" name="_next" value="{{ site.baseurl }}/thank-you">
 					</li>
 				</ul>
 			</form>
