@@ -6,16 +6,16 @@ description: Silver Strand Physical Therapy Privacy Policy.
 featured-image:
 ---
 
-RISE Physical Therapy respects your right to privacy and will protect it when you visit our web site. Here are some things you should know about how we protect your privacy.
+Silver Strand Physical Therapy respects your right to privacy and will protect it when you visit our web site. Here are some things you should know about how we protect your privacy.
 
 ### Email
 
-1. When you send us email we won’t share your email address with anyone outside of RISE Physical Therapy, its contractors, and other third party representatives.
+1. When you send us email we won’t share your email address with anyone outside of Silver Strand Physical Therapy, its contractors, and other third party representatives.
 2. If you sign up for one of our emailing lists, we’ll only send you the kinds of information you’ve requested.
 
 ### Information Collection
 
-1. All personal, medical, and financial information submitted to RISE Physical Therapy is kept confidential. We will never, sell, rent or share any personal information to third parties.
+1. All personal, medical, and financial information submitted to Silver Strand Physical Therapy is kept confidential. We will never, sell, rent or share any personal information to third parties.
 2. When you browse our website, we automatically gather and store certain technical information about your visit. This information never identifies who you are. The information we collect and store about your visit is listed below:
   - The Internet domain (for example, “xcompany.com” if you use a private Internet access account, or “yourschool.edu” if you connect from a university’s domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;
   - The type of browser (e.g., Netscape, Internet Explorer) and operating system (Windows, Unix) used to access our site;
@@ -27,9 +27,9 @@ RISE Physical Therapy respects your right to privacy and will protect it when yo
 ### Site Security
 
 1. We monitor visits to the web site to identify any attempt to tamper with it.
-2. When you submit personal information using our web site – for example, you submit your name, address, phone number, etc.; we have systems that make sure people outside of RISE Physical Therapy cannot access your personal information.
-3. Tampering with RISE Physical Therapy’s web site is against the law. If anyone tries to tamper with it, they may be punished under the Computer Fraud and Abuse Act of 1986.
+2. When you submit personal information using our web site – for example, you submit your name, address, phone number, etc.; we have systems that make sure people outside of Silver Strand Physical Therapy cannot access your personal information.
+3. Tampering with Silver Strand Physical Therapy’s web site is against the law. If anyone tries to tamper with it, they may be punished under the Computer Fraud and Abuse Act of 1986.
 
-### RISE Physical Therapy Contact Policy
+### Silver Strand Physical Therapy Contact Policy
 
-By submitting your name, email address and phone number anywhere on risephysicaltherapy.com you will receive phone calls and emails regarding your interest in RISE Physical Therapy We also partner with lead generators. If RISE Physical Therapy receives your information through such third party brokers, you will receive phone and email correspondence regarding your interest. RISE Physical Therapy may also contact you in the future to provide information regarding other financial or consumer products that we feel may interest you. You may opt-out of any correspondence which is not directly linked to your transaction by clicking on the “Opt-Out” link in any non-transactional email.
+By submitting your name, email address and phone number anywhere on silverstrandpt.com you will receive phone calls and emails regarding your interest in Silver Strand Physical Therapy We also partner with lead generators. If Silver Strand Physical Therapy receives your information through such third party brokers, you will receive phone and email correspondence regarding your interest. Silver Strand Physical Therapy may also contact you in the future to provide information regarding other financial or consumer products that we feel may interest you. You may opt-out of any correspondence which is not directly linked to your transaction by clicking on the “Opt-Out” link in any non-transactional email.
