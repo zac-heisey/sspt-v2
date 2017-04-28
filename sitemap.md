@@ -3,7 +3,7 @@ title: Sitemap
 layout: page
 description: Silver Stand Physical Therapy provides physical therapy services to patients
   throughout Imperial Beach and the South Bay. Schedule your appointment today!
-primary_description:
+primary_description: 
 ---
 
 ### Pages
