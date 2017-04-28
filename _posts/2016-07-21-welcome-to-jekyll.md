@@ -1,12 +1,6 @@
 ---
 title: Blog Post Example 1
 date: 2016-07-21 16:00:00 Z
-categories:
-- jekyll
-- update
-tags:
-- tag1
-- tag2
 layout: post
 featured-image: "/uploads/images/pic01.jpg"
 ---
