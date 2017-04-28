@@ -3,7 +3,7 @@ title: Privacy Policy
 permalink: "/privacy-policy"
 layout: page
 description: Silver Strand Physical Therapy Privacy Policy.
-featured-image:
+featured-image: 
 ---
 
 Silver Strand Physical Therapy respects your right to privacy and will protect it when you visit our web site. Here are some things you should know about how we protect your privacy.

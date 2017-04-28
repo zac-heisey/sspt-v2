@@ -2,9 +2,10 @@
 title: Thank You
 permalink: "/thank-you"
 layout: page
-description: Thanks for reaching out to Silver Strand Physical Therapy! We will
-  be in touch to set up your evaluation with a certified physical therapist in Imperial Beach.
-featured-image:
+description: Thanks for reaching out to Silver Strand Physical Therapy! We will be
+  in touch to set up your evaluation with a certified physical therapist in Imperial
+  Beach.
+featured-image: 
 ---
 
 Thanks for reaching out to [Silver Strand Physical Therapy]({{ site.url }})! Our team will be in touch soon to set up your evaluation.
