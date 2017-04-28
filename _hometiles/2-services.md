@@ -2,9 +2,9 @@
 title: Our Services
 permalink: "/services"
 layout: page
-meta_description: From injury prevention to rehabilitation, balance training to reconditioning,
+description: From injury prevention to rehabilitation, balance training to reconditioning,
   Silver Strand Physical Therapy provides comprehensive treatment services.
-featured-image: 
+featured-image:
 homepage-thumbnail: uploads/images/pic17.jpg
 homepage-description: We offer a variety of physical therapy treatment options.
 ---
