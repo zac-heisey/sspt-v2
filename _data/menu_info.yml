@@ -8,11 +8,8 @@ navmenu:
   url: "/services"
 - title: Insurance
   url: "/insurance"
-- title: Blog
-  url: "/blog"
 - title: Service Areas
   url: "/service-areas"
 - title: Contact
   url: "/#contact"
 ---
-
