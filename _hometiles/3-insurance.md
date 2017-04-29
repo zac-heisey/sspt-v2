@@ -5,10 +5,10 @@ layout: page
 description: We accept Tricare, Medicare/Medical, Aetna, Blue Cross, Blue Shield of
   CA, and numerous other insurance carriers. Affordable cash rates are available as
   well.
-featured-image: 
-homepage-thumbnail: uploads/images/pic18.jpg
-homepage-description: We accept TriCare, Medicare, Aetna, Anthem Blue Shield, and
-  more. Affordable cash rates are also available.
+featured-image:
+homepage-thumbnail: uploads/images/lifeguard-tower.jpg
+homepage-description: We accept TriCare, Medicare, Anthem Blue Cross, and
+  more.
 ---
 
 Silver Strand Physical Therapy is contracted with numerous health insurance plans in order to provide in-network physical therapy services. We are an in-network provider with:
