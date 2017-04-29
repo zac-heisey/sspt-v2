@@ -3,4 +3,5 @@
 # http://sspt-v2.netlify.com/*    https://www.silverstrandpt.com/:splat    301!
 
 # Primary URL Redirects
-/physical-therapy-clinic  /service-areas  301
+/physical-therapy-clinic    /service-areas    301
+/contact    /#contact    301
