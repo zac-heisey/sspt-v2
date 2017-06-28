@@ -3,7 +3,7 @@ title: Kelsey Diaz
 creds: PT, DPT
 education1: Bachelor's Degree
 education2: Doctor of Physical Therapy | University of Flords
-bio-thumbnail: uploads/images/staff/kelsey.jpg
+bio-thumbnail: uploads/staff/kelsey.jpg
 layout: page
 ---
 

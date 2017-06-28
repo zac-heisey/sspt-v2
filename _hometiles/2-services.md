@@ -5,7 +5,7 @@ layout: page
 description: From injury prevention to rehabilitation, balance training to reconditioning,
   Silver Strand Physical Therapy provides comprehensive treatment services.
 featured-image: 
-homepage-thumbnail: uploads/images/surfer-dude.jpg
+homepage-thumbnail: uploads/surfer-dude.jpg
 homepage-description: We offer a variety of physical therapy treatment options.
 ---
 

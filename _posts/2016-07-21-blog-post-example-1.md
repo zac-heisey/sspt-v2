@@ -2,7 +2,7 @@
 title: Blog Post Example 1
 date: 2016-07-21 16:00:00 Z
 layout: post
-featured-image: "/uploads/images/pic01.jpg"
+featured-image: "/uploads/pic01.jpg"
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
