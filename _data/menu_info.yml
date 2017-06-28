@@ -10,7 +10,8 @@ navmenu:
   url: "/insurance"
 - title: Service Areas
   url: "/service-areas"
+- title: Blog
+  url: "/blog"
 - title: Contact
   url: "/#contact"
 ---
-
