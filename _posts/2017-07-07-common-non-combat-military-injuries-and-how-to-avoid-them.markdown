@@ -50,12 +50,12 @@ Now let’s talk about prevention.
 
 ![Hip Flexor Stretch](http://upl.stack.com/wp-content/uploads/2015/11/02170840/Kneeling-Hip-Flexor-Stretch-STACK.png)
 
-3\. **Stability before Mobility**. When working out, we often work on large muscle groups and leave out some of the small muscles that provide important stability and control mobility. For example, while you may have strong enough triceps to perform 100 pushups, your rotator cuff muscles may be weak leading to a frustrating shoulder injury. Focus on form and slow, controlled movements when pre-training. When your form fails, know when to stop and progress from there.  Remember to take into account some of these important stabilizing muscle groups: Rotator cuff, Scapular muscles, Core abdominal muscles, gluteal muscles, and intrinsic foot muscles. \
- \
-4\. **Warm up and cool down**. Try a 5-10 minute warm up and 5 minute cool down (heart rate should drop to <120 bpm). A dynamic warm up can further prepare your muscles to be strong yet flexible without overstretching.\
- \
-5\. **Remember to incorporate rest days**. Give yourself at least 1 day of full rest per week and remember to alternate heavy training days with light training days. \
- \
+3\. **Stability before Mobility**. When working out, we often work on large muscle groups and leave out some of the small muscles that provide important stability and control mobility. For example, while you may have strong enough triceps to perform 100 pushups, your rotator cuff muscles may be weak leading to a frustrating shoulder injury. Focus on form and slow, controlled movements when pre-training. When your form fails, know when to stop and progress from there.  Remember to take into account some of these important stabilizing muscle groups: Rotator cuff, Scapular muscles, Core abdominal muscles, gluteal muscles, and intrinsic foot muscles. 
+
+4\. **Warm up and cool down**. Try a 5-10 minute warm up and 5 minute cool down (heart rate should drop to <120 bpm). A dynamic warm up can further prepare your muscles to be strong yet flexible without overstretching.
+
+5\. **Remember to incorporate rest days**. Give yourself at least 1 day of full rest per week and remember to alternate heavy training days with light training days. 
+
 6\. **Do not ignore symptoms**. Muscle soreness is to be expected, but pain is your body’s warning sign. Ignoring and working through pain will lead to injury that could take weeks to recover from. Listen to your body, and if you do have your persisting pain see your physical therapist.
 
 For a comprehensive overview of your body prior to training, a physical therapist could provide a movement/injury screen to identify impairments throughout the entire kinetic chain of your body. Now get moving and happy training!
