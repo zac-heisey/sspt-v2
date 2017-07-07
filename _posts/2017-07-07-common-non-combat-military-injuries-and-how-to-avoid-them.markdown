@@ -3,7 +3,8 @@ title: Common Non-combat Military Injuries and How to Avoid Them
 date: 2017-07-07 12:46:00 Z
 featured-image: "/uploads/non-combat-injuries-featured.jpg"
 description: Non-combat injuries are common in the military, and many injuries are
-  sustained during required rigorous training programs. Here are a few of the oco
+  sustained during required rigorous training programs. Here are a few of the common
+  non-combat injuries and how to prevent them.
 ---
 
 Non-combat injury is common in the military, and many injuries are sustained during required rigorous training programs. Recent studies suggest that these injuries are often from a combination of training as well as equipment and footwear utilized in different branches of the military `1`. While we cannot change the uniform or the equipment, what we can do is to understand common injuries and how to prepare and pre-train for prevention.
