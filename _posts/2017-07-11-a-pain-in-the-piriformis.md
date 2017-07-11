@@ -1,11 +1,11 @@
 ---
 title: A Pain in the Piriformis
 date: 2017-07-11 00:01:00 Z
-layout: post
-featured-image: "/uploads/piriformis-featured.jpg"
+featured-image: uploads/piriformis-featured.jpg
 description: Maintaining a healthy back is a crucial part of any active lifestyle.
   Here are 4 tips that can help you maintain a healthy back and continue to live,
   work, and move pain-free.
+layout: post
 ---
 
 The Piriformis muscle is a small muscle at your hip that rotates your leg outward. While this muscle is small, it is quite popular since many individuals have pain and tenderness. The muscle is located posteriorly deep to the Gluteus Maximus muscle and can typically be felt in the area of your back pants pocket.
