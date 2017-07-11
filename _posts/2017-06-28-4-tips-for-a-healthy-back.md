@@ -2,7 +2,7 @@
 title: 4 Tips for a Healthy Back
 date: 2017-06-28 14:39:00 Z
 layout: post
-featured-image: "/uploads/back-pain-featured.png"
+featured-image: uploads/back-pain-featured.png
 description: Maintaining a healthy back is a crucial part of any active lifestyle.
   Here are 4 tips that can help you maintain a healthy back and continue to live,
   work, and move pain-free.
