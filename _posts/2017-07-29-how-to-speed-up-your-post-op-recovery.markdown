@@ -19,7 +19,7 @@ given to you after surgery. If you have a question about a certain activity, cal
 
 ![post-op walking exercise](http://www.womenfitness.net/wp/wp-content/uploads/2016/09/walking.jpg)
 
-**5. Manage Swelling and Support Healing**: While it is important to move, its also important to rest adequately. To reduce swelling elevate the affected area and use ice and compression. Sometimes, if allowed, simple exercises and gentle massage may help.
+**4. Manage Swelling and Support Healing**: While it is important to move, its also important to rest adequately. To reduce swelling elevate the affected area and use ice and compression. Sometimes, if allowed, simple exercises and gentle massage may help.
 
 **5. Give Attention to Scars**: Without the correct stress, a scar can heal improperly as well. A scar should close up without signs of infection but remain pliable. This can be obtained through gentle massage across the scar and range of motion activities - ask your physical therapist!
 
