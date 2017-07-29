@@ -2,7 +2,8 @@
 title: How to Speed Up Your Post-Op Recovery
 date: 2017-07-29 00:00:00 Z
 featured-image: "/uploads/post-op-physical-therapy.jpg"
-description: Getting back to action following surgery can be an uphill, time-consuming battle. Here are 6 ways you can help speed up your post-op recovery.
+description: Getting back to action following surgery can be an uphill, time-consuming
+  battle. Here are 6 ways you can help speed up your post-op recovery.
 ---
 
 When you really think about it, it is no wonder that you are in pain and have swelling after surgery, so may levels of tissue in your body are disrupted - sometimes all the way down to the bone! While pain/soreness is unavoidable, there are ways to help speed up your recovery and get back in action.
