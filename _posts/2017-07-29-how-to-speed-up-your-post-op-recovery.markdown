@@ -9,7 +9,7 @@ description: Getting back to action following surgery can be an uphill, time-con
 When you really think about it, it is no wonder that you are in pain and have swelling after surgery, so may levels of tissue in your body are disrupted - sometimes all the way down to the bone! While pain/soreness is unavoidable, there are ways to help speed up your recovery and get back in action.
 
 1. **Follow your Surgeon’s Instructions**: Your surgeon has a reason for the instructions he/she gives and often it is to protect the repaired tissue to avoid any complications/revisions. That means to avoid having to fix or repeat the surgery. You do not want this! Take notes or have someone with you if instructions are being
-given to you after surgery. If you have a question about a certain activity, call your surgeon’s office and leave a message.
+   given to you after surgery. If you have a question about a certain activity, call your surgeon’s office and leave a message.
 
 2. **Eat a Well-Balanced Diet**: Food is your body’s fuel and your body is recovering from some major trauma, so [you should feed it right](http://www.northcentralsurgical.com/blog/best-foods-to-eat-after-surgery-150.html). Make sure you get plenty of protein to help with the healing process. Unless directed to do so, opt for water over salty sports drinks - some sources state these drinks can cause you to retain fluids. Also, get plenty of fiber. After surgery you may be prescribed pain medication and fiber will help to keep things moving along through your digestive tract.
 
@@ -29,9 +29,7 @@ given to you after surgery. If you have a question about a certain activity, cal
 
 Remember: listen to your health care team, ask questions, and be an active participant in your post-op physical therapy treatment. You'll be back to your favorite hobbies and activities in no time!
 
-```
-Image Credits:
-- www.cosozo.com
-- www.womenfitness.net
-- www.stephenmcculley.co.uk
-```
+    Image Credits:
+    - www.cosozo.com
+    - www.womenfitness.net
+    - www.stephenmcculley.co.uk
