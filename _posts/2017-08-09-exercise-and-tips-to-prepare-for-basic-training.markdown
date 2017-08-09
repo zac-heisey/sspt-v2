@@ -83,3 +83,10 @@ There are many training schedules out there to help you prepare/begin a running 
 ## Treat Injuries Prior to Program
 
 Don’t ignore the aches and pains that you have before you even start. See your physical therapist, or find a physical therapist to rehab these problems first. Chances are, the physical therapist will pick up on strength and flexibility deficits that will further enhance your training abilities. Now get out there and train, train, train!
+
+```
+Image Credits:
+- blog.timesunion.com
+- images04.military.com
+- upl.stack.com
+```
