@@ -3,7 +3,7 @@
 	{% for page in site.hometiles %}
 		<article class="style{{ forloop.index }}">
 			<span class="image">
-				<img src="{{ site.url }}/{{ page.homepage-thumbnail }}" alt="" />
+				<img src="{{ site.url }}/{{ page.homepage-thumbnail }}" title="{{ page.title }}" alt="{{ page.homepage-description }}" />
 			</span>
 			<a href="{{ page.url | prepend:site.url }}">
 				<h2>{{ page.title }}</h2>
