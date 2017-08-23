@@ -5,7 +5,7 @@ description: 'Chronic pain is the #1 cause of disability in the U.S. We discuss 
   people should choose physical therapy first over prescription pain medication.'
 ---
 
-_Written by Dr. Allison Gentry | PT, DPT, CAFS_
+_Written by Dr. Allison Gentry PT, DPT, CAFS_
 
 Did you know that chronic pain is the number one cause of disability in the United States and over *[one million](http://www.thegoodbody.com/chronic-pain-statistics/)*[ Americans suffer from chronic pain](http://www.thegoodbody.com/chronic-pain-statistics/)? Pain has become such a common factor for people to deal with in their everyday lives, and low back pain takes the lead for most common source of chronic pain.
 
