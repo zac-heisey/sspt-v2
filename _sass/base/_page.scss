@@ -37,3 +37,26 @@
 			}
 
 	}
+
+/* landing-page.html Layout Styles */
+
+.landing-page-content {
+	display: flex;
+	justify-content: space-between;
+}
+
+.lp-content-section {
+	max-width: 55%;
+}
+
+@include breakpoint(medium) {
+	// wrap contact form below landing page content
+	.landing-page-content {
+		flex-wrap: wrap;
+	}
+	// set both content and contact form to 100% width on mobile devices
+	.lp-content-section,
+	#landing-contact {
+		min-width: 100%;
+	}
+}
