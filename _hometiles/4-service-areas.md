@@ -2,8 +2,9 @@
 title: Service Areas
 permalink: "/service-areas"
 layout: page
-description: Silver Strand Physical Therapy serves patients in Imperial Beach, Silver Strand, Coronado, National City, Chula Vista, and the rest of South San Diego.
-featured-image:
+description: Silver Strand Physical Therapy serves patients in Imperial Beach, Silver
+  Strand, Coronado, National City, Chula Vista, and the rest of South San Diego.
+featured-image: 
 homepage-thumbnail: uploads/IB-pier.jpg
 homepage-description: Located in Imperial Beach, we provide physical therapy through
   to patients throughout the South Bay.

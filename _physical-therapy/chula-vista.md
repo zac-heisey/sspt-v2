@@ -2,7 +2,7 @@
 title: Chula Vista Physical Therapy
 layout: landing-page
 description: TBD TBD TBD
-featured-image:
+featured-image: 
 ---
 
 <div class="lp-content-section">
