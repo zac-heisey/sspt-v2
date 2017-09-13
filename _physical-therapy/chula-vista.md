@@ -1,8 +1,9 @@
 ---
 title: Chula Vista Physical Therapy
-layout: landing-page
-description: TBD TBD TBD
+description: Silver Strand Physical Therapy provides physical therapy to patients
+  in Chula Vista, National City, and through South San Diego. Visit to learn more.
 featured-image: 
+layout: landing-page
 ---
 
 <div class="lp-content-section">
