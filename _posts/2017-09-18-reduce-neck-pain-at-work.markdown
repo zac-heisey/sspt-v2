@@ -6,6 +6,8 @@ description: Extended periods of sitting, typing, or gazing at a computer screen
   lead to neck and back pain. We share 3 exercises that can reduce neck pain at work.
 ---
 
+_Written by Dr. Allison Gentry PT, DPT_
+
 Many of us have at least a portion of our job that requires sitting, typing, or looking at various screens. It is no secret that these tasks, when performed for extended, can lead to neck pain and other impairments. Remaining in one position for an extended period can cause downstream problems regardless of the position, so
 taking frequent breaks (standing briefly at your desk, sitting of you’ve been standing and walking, etc) is a first and important step. But there are many other exercises/stretches that can be adapted according to your workspace to avoid/correct impairments.
 
@@ -13,12 +15,12 @@ taking frequent breaks (standing briefly at your desk, sitting of you’ve been 
 
 **Chin Tuck**
 From static positioning, many of us end up with forward head posture. Our shoulders and upper back are rounded forward, our lower cervical spine (your neck) also bent forward requiring your upper cervical spine to back bend so that your eyes can focus on the horizon. This progresses down a slippery slope, and the chin tuck exercise can assist in reversing this problem. Align yourself at a wall: relax upper traps, shoulder blades down and back, ears over shoulders, and palms facing
-forward with the chest open. Now use a hand to guide your chin straight back as if you are making a double chin. Be sure to avoid looking down/bending your neck forward.  _Hold for 5 seconds and repeat 10 times._
+forward with the chest open. Now use a hand to guide your chin straight back as if you are making a double chin. Be sure to avoid looking down/bending your neck forward.  *Hold for 5 seconds and repeat 10 times.*
 
 ![Chin Tuck Exercise](http://benhgaicotsong.com/wp-content/uploads/bai-tap-chua-gai-cot-song-co.jpg)
 
 **Scapular Retraction**
-This exercise can be performed in sitting/standing or lying down. Simply adjust your posture so that your shoulders are relaxed and directly below your ears, just as you did while performing the chin tuck. Bring those shoulder blades down and back as if you are squeezing them together. _Hold for 5-10 seconds and repeat this exercise 10 times._
+This exercise can be performed in sitting/standing or lying down. Simply adjust your posture so that your shoulders are relaxed and directly below your ears, just as you did while performing the chin tuck. Bring those shoulder blades down and back as if you are squeezing them together. *Hold for 5-10 seconds and repeat this exercise 10 times.*
 
 ![Scapular Retraction Exercise](https://www.topstretch.com/wp-content/uploads/2017/03/scapular-retraction.jpg)
 
@@ -29,9 +31,7 @@ Here we will have to revisit that posture one more time- Stand in a doorway and 
 
 These exercises, along with frequent breaks from sitting positions, can help to prevent neck/back pain and possibly help relieve minor pain for those with a job that requires a lot of sitting. If you have long-standing neck pain or pain that is more severe or persistent, visit your [physical therapist](/) for and examination. A physical therapist can provide manual and active treatments tailored to an individual condition and can even offer advice regarding posture and ergonomics for your work area so that you can recover and get back to doing the things you love.
 
-```
-Image Sources:
-- benhgaicotsong.com
-- topstretch.com
-- florencechiropractic.com
-```
+    Image Sources:
+    - benhgaicotsong.com
+    - topstretch.com
+    - florencechiropractic.com
