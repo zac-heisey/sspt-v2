@@ -6,7 +6,7 @@ description: Extended periods of sitting, typing, or gazing at a computer screen
   lead to neck and back pain. We share 3 exercises that can reduce neck pain at work.
 ---
 
-_Written by Dr. Allison Gentry PT, DPT_
+_Written by Dr. Angela Wunder PT, DPT_
 
 Many of us have at least a portion of our job that requires sitting, typing, or looking at various screens. It is no secret that these tasks, when performed for extended, can lead to neck pain and other impairments. Remaining in one position for an extended period can cause downstream problems regardless of the position, so
 taking frequent breaks (standing briefly at your desk, sitting of you’ve been standing and walking, etc) is a first and important step. But there are many other exercises/stretches that can be adapted according to your workspace to avoid/correct impairments.
