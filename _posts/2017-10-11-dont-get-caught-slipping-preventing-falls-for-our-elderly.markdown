@@ -16,17 +16,17 @@ For these reasons it is very important that risk for falls are identified and ad
 
 ## Things that Place you at Risk for Falling
 
-1. **Vision Problems** - Do not let those eye doctor check-ups pass you by! Combined with other components of aging, even a slight visual problem can end in a dangerous fall
+**1. Vision Problems** - Do not let those eye doctor check-ups pass you by! Combined with other components of aging, even a slight visual problem can end in a dangerous fall
 
-2. **Medications** - Regularly review medications with your physician. Feelings of dizziness/light-headedness, weakness and fatigue are a few of many common side effects from medications. A doctor can review these medications and either adjust dosage or provide you with the best instructions when taking the medications.
+**2. Medications** - Regularly review medications with your physician. Feelings of dizziness/light-headedness, weakness and fatigue are a few of many common side effects from medications. A doctor can review these medications and either adjust dosage or provide you with the best instructions when taking the medications.
 
-3. **Muscle weakness/Balance Deficits** - Did you know that most adults reach their maximum muscle mass around 40 years old and lose approximately 3-5% each decade form then if inactive? If you don’t use it you lose it, so you have to keep on moving and exercises. This is where [physical therapy](/) plays a vital role- a trained health professional that can safely guide and progress a balance and strengthening routine. Read further below for more information & tips.
+**3. Muscle weakness/Balance Deficits** - Did you know that most adults reach their maximum muscle mass around 40 years old and lose approximately 3-5% each decade form then if inactive? If you don’t use it you lose it, so you have to keep on moving and exercises. This is where [physical therapy](/) plays a vital role- a trained health professional that can safely guide and progress a balance and strengthening routine. Read further below for more information & tips.
 
-4. **Trip Hazards** - This may seem obvious, but many of these trip hazards are common and not very obvious at all. A throw rug is a big tripping hazard. Pets can get caught underfoot. Low lighting, clutter, or a combination of both increase chances of falling.
+**4. Trip Hazards** - This may seem obvious, but many of these trip hazards are common and not very obvious at all. A throw rug is a big tripping hazard. Pets can get caught underfoot. Low lighting, clutter, or a combination of both increase chances of falling.
 
 ![trip hazard signage image](http://d2e17bkrkslpjg.cloudfront.net/getty/medium/getty-3218-149722155.jpg "Trip Hazard Signage")
 
-5. **Fear of Falling** - This just sounds silly, but it is a big part of the problem. You are nervous about falling, you move less, and in turn become weaker. The sensory system in your joints diminishes, and then you are at a bigger disadvantage. If you are nervous about falling, address those fears! Make the necessary changes with the right health professionals.
+**5. Fear of Falling** - This just sounds silly, but it is a big part of the problem. You are nervous about falling, you move less, and in turn become weaker. The sensory system in your joints diminishes, and then you are at a bigger disadvantage. If you are nervous about falling, address those fears! Make the necessary changes with the right health professionals.
 
 ## Reducing Fall Risks - What Works?
 
