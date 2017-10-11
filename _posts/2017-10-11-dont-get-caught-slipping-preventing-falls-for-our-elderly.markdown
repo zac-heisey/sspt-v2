@@ -2,6 +2,8 @@
 title: Don't Get Caught Slipping! Preventing Falls for Our Elderly
 date: 2017-10-11 14:48:00 Z
 featured-image: "/uploads/elderly-strength-balance-exercise.jpg"
+description: As we age, falling can cause so much more than pain or a scrape. Here
+  are some ways we can help precent falls for our elderly (and ourselves)!
 ---
 
 *Written by Angela Wunder PT, DPT*
@@ -24,7 +26,7 @@ For these reasons it is very important that risk for falls are identified and ad
 
 ![trip hazard signage image](http://d2e17bkrkslpjg.cloudfront.net/getty/medium/getty-3218-149722155.jpg "Trip Hazard Signage")
 
-1. **Fear of Falling** - This just sounds silly, but it is a big part of the problem. You are nervous about falling, you move less, and in turn become weaker. The sensory system in your joints diminishes, and then you are at a bigger disadvantage. If you are nervous about falling, address those fears! Make the necessary changes with the right health professionals.
+5. **Fear of Falling** - This just sounds silly, but it is a big part of the problem. You are nervous about falling, you move less, and in turn become weaker. The sensory system in your joints diminishes, and then you are at a bigger disadvantage. If you are nervous about falling, address those fears! Make the necessary changes with the right health professionals.
 
 ## Reducing Fall Risks - What Works?
 
