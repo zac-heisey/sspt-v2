@@ -10,7 +10,7 @@ description: As we age, falling can cause so much more than pain or a scrape. He
 
 As we age, falling can cause so much more than pain or a scrape. According to the [National Council on Aging (NCOA)](https://www.ncoa.org/), “Falls are the leading cause of fatal injury and the most common cause of nonfatal trauma-related hospital admissions among older adults.”1 When an elderly person falls, he or she could suffer a head injury, a pelvic fracture, or commonly a hip fracture. Along with these injuries come hospital time and sometimes surgery. This puts an individual at risk for picking up an infection or virus, and all of the bed rest and deconditioning can be detrimental and even lethal for an elderly man or woman. Another staggering statistic regarding falls: “Every 11 seconds, an older adult is treated in the emergency room for a fall; every 19 minutes, an older adult dies from a fall.”`1`
 
-For these reasons it is very important that risk for falls are identified and addressed to avoid falling in the first place! So let’s identify some common causes of falling. Some you may surprise you!
+For these reasons it is very important that risk for falls are identified and addressed to avoid falling in the first place! So let’s identify some common causes of falling. Some may surprise you!
 
 ![image of senior women working on balance exercises](http://www.hermistonherald.com/storyimage/HH/20150327/ARTICLE/150329916/EP/1/1/EP-150329916.jpg&MaxW=600 "Seniors Working on Balance")
 
