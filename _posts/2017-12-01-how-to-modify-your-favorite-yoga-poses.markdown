@@ -64,5 +64,5 @@ Image Sources:
 - huggermugger.com
 - yogajournal.com
 - mindbody360.com
-- nana-business.com
+- naja-business.com
 ```
