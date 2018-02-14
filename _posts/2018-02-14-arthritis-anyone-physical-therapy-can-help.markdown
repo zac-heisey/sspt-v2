@@ -33,3 +33,5 @@ Treatment for arthritic conditions is actually similar to prevention methods. In
 thorough examination and help to develop an individualized routine of stretching and exercises and joint mobility activities to get you back to enjoying the activities you enjoy and keep your physical and mental health.
 
 So don’t suffer through the pain, come see us and get started!
+
+![image of older man doing physical therapy](/uploads/elderly-strength-balance-exercise.jpg "Physical Therapy Can Help Treat Arthritis")
