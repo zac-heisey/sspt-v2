@@ -1,7 +1,7 @@
 ---
 title: Breathing Exercises for PTSD and PTS
 date: 2018-02-09 22:12:00 Z
-featured-image: "/uploads/ptsd-breathing-exercises.jpg"
+featured-image: "/uploads/breathing-exercises-ptsd.jpg"
 description: There are many different strategies to manage and treat PTSD and help
   reduce stress. Here we provide a few simple, yet highly effective PTSD breathing
   techniques.
