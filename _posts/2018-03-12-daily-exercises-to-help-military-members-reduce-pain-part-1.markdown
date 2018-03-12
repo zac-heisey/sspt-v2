@@ -15,7 +15,7 @@ What do all these things have in common? Some or all of them are part of the dai
 
 ### Starfish Pose
 
-I know what you’re thinking: what does lying down like a starfish have to do with my health? Well the truth is, there are three things in this world that are undefeated: death, taxes, and gravity. While we can’t help you on your tax returns, we do know that every single day our body is fighting an uphill battle against a force that’s causing us to slouch and roll forward (causing stress on our neck, back, and other structures). Along with that, our hectic lives rarely allow for a moment to focus on our breathing (see our blog on breathing for anxiety/stress reduction). This exercise accomplishes those two tasks with one quick hitting activity.
+I know what you’re thinking: what does lying down like a starfish have to do with my health? Well the truth is, there are three things in this world that are undefeated: death, taxes, and gravity. While we can’t help you on your tax returns, we do know that every single day our body is fighting an uphill battle against a force that’s causing us to slouch and roll forward (causing stress on our neck, back, and other structures). Along with that, our hectic lives rarely allow for a moment to focus on our breathing (see our [post on breathing for anxiety/stress reduction](/blog/breathing-exercises-for-ptsd-and-pts)). This exercise accomplishes those two tasks with one quick hitting activity.
 
 ![image of Starfish Post or Savasana](/uploads/savasana.jpg "The Starfish Pose, aka Savasana")
 
@@ -23,7 +23,7 @@ I know what you’re thinking: what does lying down like a starfish have to do w
 
 ### Sun Salutation
 
-Yoga may be something you are familiar with, but who has time to set aside an hour and a half to drive to/from a yoga class and contort your body into a pretzel. Instead, do three quick sun salutations whenever you feel like you need a total body “reset.”
+[Yoga](https://www.riseprimewellness/yoga) may be something you are familiar with, but who has time to set aside an hour and a half to drive to/from a yoga class and contort your body into a pretzel. Instead, do three quick sun salutations whenever you feel like you need a total body “reset.”
 
 **How to do it?** Watch this simple video for a quick introduction and step-by-step guide to a sun salutation. 3 simple salutations will alleviate the focal stress that your body is experiencing and “spread the love” throughout the body.
 
