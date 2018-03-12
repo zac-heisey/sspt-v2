@@ -6,9 +6,10 @@ description: Life in the military places extreme stress on both the mind and bod
   We share a few ways to help military members reduce physical and mental stress.
 ---
 
-_Written by Dr. Navid Hannanvash PT, DPT, ATC, CSCS, CAFS, FAFS | CEO & OWNER_
+_Written by Dr. Navid Hannanvash_ 
+_PT, DPT, ATC, CSCS, CAFS, FAFS | CEO & OWNER_
 
-Work. Parenting. Errands. Driving. Exercise
+Work. Parenting. Errands. Driving. Exercise.
 
 What do all these things have in common? Some or all of them are part of the daily life of any military family. What do all these things have to do with your body? They all place a different stress and strain on different parts of your body. As a result of these daily activities our bodies can become achy, sore, or worse yet lead to some sort of injury causing you to miss out on the important things in life. While it may be virtually impossible to cover all of your bases with a few exercises (to find more specific exercise for your individual life contact our office), we’ve compiled a list of some generic, total body cleansing exercises that can help alleviate or protect your body.
 
