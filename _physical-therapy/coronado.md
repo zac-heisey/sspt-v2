@@ -2,7 +2,7 @@
 title: Coronado Physical Therapy
 description: Silver Strand Physical Therapy provides physical therapy to patients
   in Coronado and through South San Diego. Visit to learn more.
-featured-image:
+featured-image: 
 layout: landing-page
 ---
 
