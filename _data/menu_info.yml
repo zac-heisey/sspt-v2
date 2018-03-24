@@ -14,5 +14,6 @@ navmenu:
   url: "/blog"
 - title: Contact
   url: "/#contact"
+- title: Patient Survey
+  url: "/patient-survey"
 ---
-
