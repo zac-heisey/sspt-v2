@@ -2,7 +2,9 @@
 title: Patient Satisfaction Survey
 permalink: "/patient-survey"
 layout: page
-description: Thank you for choosing Silver Strand Physical Therapy! We welcome patient feedback and encourage patients to complete our physical therapy patient satisfaction survey.
+description: Thank you for choosing Silver Strand Physical Therapy! We welcome patient
+  feedback and encourage patients to complete our physical therapy patient satisfaction
+  survey.
 ---
 
 [Silver Strand Physical Therapy]({{ site.url }}) values patient feedback and input. If you could take a moment to answer the following questions it would be greatly appreciated. We use this information to improve our services and assist us in providing superior customer service.
