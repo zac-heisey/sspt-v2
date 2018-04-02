@@ -7,7 +7,7 @@ description: In this edition of Silver Strand Physical Therapy's Practioner Spot
 
 _This is a new series on the Silver Strand Physical Therapy blog aimed at introducing our team members and highlighting the amazing things they're accomplishing - both in their practice, and in the South San Diego community._
 
-![image of acupuncturist Mario Olmos](/uploads/mario-olmos.png "Mario Olmos - Silver Strand Physical Therapy Acupuncturist")
+![image of acupuncturist Mario Olmos](https://www.silverstrandpt.com/uploads/mario-olmos.png "Mario Olmos - Silver Strand Physical Therapy Acupuncturist")
 
 Hello, my name is Mario Olmos and I am the acupuncturist at [Silver Strand Physical Therapy](/). Growing up, I loved science, sports, and the outdoors. In 1984 I graduated from Cal Poly, Pomona with a B.S. in biological sciences. In 1989 I attended San Diego State University, where I received my high school science teaching credential. In 1995 I started the Poseidon Academy of Marine Science at Mar Vista High School. Through my work with the students in the Poseidon Academy, I've been able to work with many community leaders and have established many professional partnerships. I have been teaching, coaching, and practicing acupuncture in Imperial Beach for over 20 years.
 
