@@ -13,7 +13,7 @@ Tucked away on Silver Strand Boulevard you'll find Imperial Beach’s very own C
 
 Daniel Rios is co-owner of F3 Athletics. He has a degree in Exercise Science and a passion for fitness. Daniel specializes in Olympic weightlifting, powerlifting, and strongman training. He is just one of the team members you can find in the gym helping clients on a daily basis. When speaking with Daniel, it's clear that life-long health and wellness, as well as strength, are his primary goal. He says, "Our gym is a coaching facility to help people through nutrition and exercise principals that lead to long-term, habit-based results."
 
-![image of Daniel Rios from F3 Athletics](https://www.athleticsf3.com/wp-content/uploads/2017/06/daniel-rios-coach-1.jpg "Daniel Rios, Co-Owner, F3 Athletics")
+<img src="https://www.athleticsf3.com/wp-content/uploads/2017/06/daniel-rios-coach-1.jpg" title="Daniel Rios, Co-Owner, F3 Athletics" alt="image of Daniel Rios from F3 Athletics" style="float:left;margin-right:1rem;">
 
 F3 Athletics offers a variety of services- personal training, group classes, classes for teenagers, and fundamental training designed for first timers. Additionally, F3 Athletics host yoga classes with certified yoga instructors on the roof-top of Pier South Resort for strength, mobility and mediation with a view of the Pacific Ocean. 
 
