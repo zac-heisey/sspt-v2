@@ -5,7 +5,7 @@ layout: page
 description: We accept Tricare, Medicare/Medical, Aetna, Blue Cross, Blue Shield of
   CA, and numerous other insurance carriers. Affordable cash rates are available as
   well.
-featured-image:
+featured-image: 
 homepage-thumbnail: uploads/lifeguard-tower.jpg
 homepage-description: We accept TriCare, Medicare, Anthem Blue Cross, and more.
 ---
