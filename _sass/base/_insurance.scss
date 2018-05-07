@@ -3,6 +3,20 @@
 #insurance-providers {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  flex-wrap: wrap;
+  justify-content: space-between;
   margin-bottom: 4.5rem;
+
+  .provider-list {
+    width: 45%;
+
+    @include breakpoint(small) {
+      width: 95%;
+    }
+  }
+
+  h3 {
+    margin: 0.75em 0;
+  }
+
 }
