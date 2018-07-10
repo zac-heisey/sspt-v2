@@ -2,8 +2,8 @@
 title: Bryan McLeod
 layout: page
 creds: PT, DPT
-education1:
-education2:
+education1: 
+education2: 
 bio-thumbnail: uploads/staff/bryan_sspt.jpg
 ---
 
