@@ -33,7 +33,7 @@ A list of common training injuries includes:
 
 * Achilles Tendonitis
 
-![ITB Syndrome](http://www.moveforwardpt.com/image.axd?id=e192729f-9efb-4892-9ba0-69232234cd32&t=634998932176470000)
+![ITB Syndrome](http://www.moveforwardpt.com/image.axd?id=e192729f-9efb-4892-9ba0-69232234cd32&t=634998932176470000 "Iliotibial Band (ITB) Syndrome")
 
 Now let’s talk about prevention.
 
@@ -49,7 +49,7 @@ Now let’s talk about prevention.
 **Hip Flexor Stretch**
 
 
-![Hip Flexor Stretch](http://upl.stack.com/wp-content/uploads/2015/11/02170840/Kneeling-Hip-Flexor-Stretch-STACK.png)
+![image of Hip Flexor Stretch](http://upl.stack.com/wp-content/uploads/2015/11/02170840/Kneeling-Hip-Flexor-Stretch-STACK.png "Hip Flexor Stretch")
 
 3\. **Stability before Mobility**. When working out, we often work on large muscle groups and leave out some of the small muscles that provide important stability and control mobility. For example, while you may have strong enough triceps to perform 100 pushups, your rotator cuff muscles may be weak leading to a frustrating shoulder injury. Focus on form and slow, controlled movements when pre-training. When your form fails, know when to stop and progress from there.  Remember to take into account some of these important stabilizing muscle groups: Rotator cuff, Scapular muscles, Core abdominal muscles, gluteal muscles, and intrinsic foot muscles.
 
