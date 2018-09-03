@@ -17,17 +17,17 @@ taking frequent breaks (standing briefly at your desk, sitting of you’ve been 
 From static positioning, many of us end up with forward head posture. Our shoulders and upper back are rounded forward, our lower cervical spine (your neck) also bent forward requiring your upper cervical spine to back bend so that your eyes can focus on the horizon. This progresses down a slippery slope, and the chin tuck exercise can assist in reversing this problem. Align yourself at a wall: relax upper traps, shoulder blades down and back, ears over shoulders, and palms facing
 forward with the chest open. Now use a hand to guide your chin straight back as if you are making a double chin. Be sure to avoid looking down/bending your neck forward.  *Hold for 5 seconds and repeat 10 times.*
 
-![Chin Tuck Exercise](http://benhgaicotsong.com/wp-content/uploads/bai-tap-chua-gai-cot-song-co.jpg)
+![image of Chin Tuck Exercise](http://benhgaicotsong.com/wp-content/uploads/bai-tap-chua-gai-cot-song-co.jpg "Chin Tuck Exercise")
 
 **Scapular Retraction**
 This exercise can be performed in sitting/standing or lying down. Simply adjust your posture so that your shoulders are relaxed and directly below your ears, just as you did while performing the chin tuck. Bring those shoulder blades down and back as if you are squeezing them together. *Hold for 5-10 seconds and repeat this exercise 10 times.*
 
-![Scapular Retraction Exercise](https://www.topstretch.com/wp-content/uploads/2017/03/scapular-retraction.jpg)
+![image of Scapular Retraction Exercise](https://www.topstretch.com/wp-content/uploads/2017/03/scapular-retraction.jpg "Scapular Retraction Exercise")
 
 **Corner/Doorway Pec Stretch**
 Here we will have to revisit that posture one more time- Stand in a doorway and adjust your posture. Bring you arm(s) up parallel to the floor flexed at your elbow and rest your forearms along the doorframe. Maintain your posture while you step through with your foot. Stay upright! Ideally you will use a doorframe so you can stretch both arms together. You can also walk your arms up the wall/frame to get all different fibers of your pectoral muscles.
 
-![Doorway Pec Stretch](https://florencechiropractic.com/wp-content/uploads/2015/05/Picture1.png)
+![image of Doorway Pec Stretch](https://florencechiropractic.com/wp-content/uploads/2015/05/Picture1.png "Doorway Pec Stretch")
 
 These exercises, along with frequent breaks from sitting positions, can help to prevent neck/back pain and possibly help relieve minor pain for those with a job that requires a lot of sitting. If you have long-standing neck pain or pain that is more severe or persistent, visit your [physical therapist](/) for and examination. A physical therapist can provide manual and active treatments tailored to an individual condition and can even offer advice regarding posture and ergonomics for your work area so that you can recover and get back to doing the things you love.
 
