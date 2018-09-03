@@ -16,8 +16,6 @@ We will start with an obvious fact: healthcare is not cheap. If you have health 
 
 Physical therapists can also specialize in specific areas, such as women’s health, sports, pediatrics, cardiovascular/pulmonary, geriatrics, neurology, and orthopedics. If you have a specific type of injury or medical problem, it might be wise to consider seeing a [specialized physical therapist](/staff) for treatment. A specialized physical therapist simply have more training and has taken extensive courses in their area of specialty and may be better equipped to assist you with your medical problem.
 
-![American Board of Physical Therapy Specialties logo](https://www.advancedtraveltherapy.com/wp-content/uploads/2012/09/abpts-logo.png)
-
 However, as a side note, physical therapists are educated thoroughly in all those above listed areas while in school. So every physical therapist has the tools and education to assist you in all those areas, however if your medical problem is severe you may benefit from a specialized provider. 
 
 ### 3. Who Supervises My Treatment?
