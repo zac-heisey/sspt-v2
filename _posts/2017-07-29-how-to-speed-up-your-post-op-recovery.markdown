@@ -13,17 +13,17 @@ given to you after surgery. If you have a question about a certain activity, cal
 
 **2. Eat a Well-Balanced Diet**: Food is your body’s fuel and your body is recovering from some major trauma, so [you should feed it right](http://www.northcentralsurgical.com/blog/best-foods-to-eat-after-surgery-150.html). Make sure you get plenty of protein to help with the healing process. Unless directed to do so, opt for water over salty sports drinks - some sources state these drinks can cause you to retain fluids. Also, get plenty of fiber. After surgery you may be prescribed pain medication and fiber will help to keep things moving along through your digestive tract.
 
-![well-balanced diet](http://www.cosozo.com/sites/default/files/styles/article_body/public/images/articles/diet1.jpg?itok=NaPJxS-z)
+![well-balanced diet](http://www.cosozo.com/sites/default/files/styles/article_body/public/images/articles/diet1.jpg?itok=NaPJxS-z "Eating a Well-Balanced Diet")
 
 **3. Move it!**: While it is tempting to lie on the couch all day when you are sore (and also important to rest), try to keep moving. Ask your surgeon for physical restrictions and [allowed activities after surgery](https://www.popsugar.com/fitness/Doctor-Offers-Tips-Exercising-After-Sugery-2008-06-10-090000-1696506). Walking is a great way to increase blood flow and healing, and will also help avoid complications from bed rest such as blood clots, constipation, and more. You will also need controlled movement such as gentle stretching or exercise for optimal healing of soft tissue structures. This is where your physical therapist comes in. He/she will know the safe and correct ways to stress your tissues to encourage healing and recovery.
 
-![post-op walking exercise](http://www.womenfitness.net/wp/wp-content/uploads/2016/09/walking.jpg)
+![post-op walking exercise](http://www.womenfitness.net/wp/wp-content/uploads/2016/09/walking.jpg "Post-Op Walking Exercises")
 
 **4. Manage Swelling and Support Healing**: While it is important to move, its also important to rest adequately. To reduce swelling elevate the affected area and use ice and compression. Sometimes, if allowed, simple exercises and gentle massage may help.
 
 **5. Give Attention to Scars**: Without the correct stress, a scar can heal improperly as well. A scar should close up without signs of infection but remain pliable. This can be obtained through gentle massage across the scar and range of motion activities - ask your physical therapist!
 
-![scar massage techniques](http://www.stephenmcculley.co.uk/wp-content/uploads/2017/05/massage-scar-tissue-soon.jpg)
+![scar massage techniques](http://www.stephenmcculley.co.uk/wp-content/uploads/2017/05/massage-scar-tissue-soon.jpg "Scar Tissue Massage")
 
 **6. Pre-Op Physical Therapy**: [Physical therapy](/) prior to surgery can help you become strong and flexible prior to surgery improving outcomes and recovery time. Your surgeon may recommend this, and depending upon laws in your state and insurance, you can see your physical therapist directly prior to getting a physician authorization to see of you would be an appropriate candidate for physical therapy.
 
