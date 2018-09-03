@@ -36,7 +36,7 @@ Lets talk push up form. For a correct push up you will want to follow this guide
 
 * During descent, your arms must be parallel to the ground to be considered a full push-up
 
-![military push-ups](http://blog.timesunion.com/running/files/2010/09/size0-army_mil-35976-2009-04-24-070435.jpg)
+![military push-ups](http://blog.timesunion.com/running/files/2010/09/size0-army_mil-35976-2009-04-24-070435.jpg "Military Push-Ups for Basic Training")
 
 Remember: **Form First!** You will be timed in the military to see how many push ups you can perform in 2 minutes. Developing core strength, rotator cuff strength, and strength in the muscles that rotate your shoulder blades to support your shoulders should be a focus throughout your training. If you need help, look into [rotator cuff strengthening](https://breakingmuscle.com/fitness/avoid-shoulder-injury-by-strengthening-the-rotator-cuff) and [scapular stabilizing exercises](http://www.bodybuildingestore.com/5-scapular-muscles-strengthening-exercises/).
 
@@ -58,13 +58,13 @@ Remember: **Form First!** You will be timed in the military to see how many push
 
 You may need to work up to sit-ups as well by starting first with core activation exercises. If you are new to core muscle training start here with [these core stabilizing activities](https://breakingmuscle.com/fitness/5-fundamental-core-and-abdominal-exercises-for-beginners).
 
-![military sit-ups](http://images04.military.com/media/military-fitness/resting-with-crunches-image.jpg)
+![military sit-ups](http://images04.military.com/media/military-fitness/resting-with-crunches-image.jpg "Sit-Ups to Build Core Strength for Basic Training")
 
 ## Running
 
 You should prepare to run **25-30 miles a week** to avoid overuse injuries during basic training. This should be done progressively and you should incorporate cross training. If you are enlisting in the navy, alternate running days with swimming days.
 
-![military running](http://upl.stack.com/wp-content/uploads/running-1024x686-629x421.jpg)
+![military running](http://upl.stack.com/wp-content/uploads/running-1024x686-629x421.jpg "Running for Basic Training")
 
 Avoid common overuse injuries such as plantar fasciitis. Avoiding injury depends largely of the entire kinetic chain (your body) to work together, but the following tips will help:
 
