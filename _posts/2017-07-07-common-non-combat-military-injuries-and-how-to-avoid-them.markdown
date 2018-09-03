@@ -44,7 +44,7 @@ Now let’s talk about prevention.
 **Gastroc/Soleus (Calf) Stretch**
 
 
-![Gastroc/Soleus (Calf) Stretch](http://www.runningwithhaynes.com/wp-content/upLoads/2012/10/CalfStretches_thumb-e1349879910227.gif)
+![diagram of Gastroc/Soleus (Calf) Stretch](https://dottotrot.files.wordpress.com/2018/02/calf-stretches.png "Gastroc/Soleus (Calf) Stretch")
 
 **Hip Flexor Stretch**
 
