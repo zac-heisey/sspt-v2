@@ -22,7 +22,7 @@ However, as a side note, physical therapists are educated thoroughly in all thos
 
 It’s a fair question to ask the receptionist whenever you call to check in with the clinic to make your first appointment. There are physical therapists, physical therapy assistants, physical therapy aides and techs, all of which have individual training for certain aspects of the field of physical rehabilitation. All can be excellent care providers, but another good question to ask is: “How many patients do they see at one time?”. If you can get [one-on-one treatment by a physical therapist](/), that’s fantastic! However if they tell you that you are treated by a physical therapist, but it’s at the same time as 2-3 other patients, it's important to consider how much expert one-on-one time you can really expect.
 
-![navid hannanvash 1-on-1 physical therapy](https://www.risephysicaltherapy.com/img/services/injury-prevention.jpg)
+![navid hannanvash 1-on-1 physical therapy](https://www.risephysicaltherapy.com/img/services/injury-prevention.jpg "1-On-1 Physical Therapy Treatment")
 
 ### 4. Referrals and Reviews
 
