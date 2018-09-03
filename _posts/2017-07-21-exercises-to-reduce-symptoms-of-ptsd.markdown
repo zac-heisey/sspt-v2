@@ -33,19 +33,19 @@ It is important to note that you should check with your doctor before embarking 
 
 Get into a comfortable position, preferably lying on your back or seated. Place one hand on your chest and another on your belly. Breath in through your nose slowly feeling the hand on your belly rise only counting to 4 and breathe out then fully exhales
 
-![Diaphragmatic Breathing exercises](http://www.bulaball.com/_assets/images/content/NewDiaphragm_1.jpg)
+![Diaphragmatic Breathing exercises](http://www.bulaball.com/_assets/images/content/NewDiaphragm_1.jpg "Diaphragmatic Breathing Exercises to Treat PTSD")
 
 **Aerobic Exercise**
 
 The [US Department of Veteran Affairs](https://www.va.gov/) recommends trying walking, jogging, swimming, weight lifting, and other forms of exercise that reduce tension with a physician’s clearance. The trick is to aim for light to moderate activity levels. Use your breathlessness as a guide. You should have the ability to maintain a conversation while exercising. Working at too high of an intensity level could leave you sore and stress your body so choose a comfortable enjoyable exercise and progress safely.
 
-![bike riding for aerobic exercise](http://blog.codyapp.com/wp-content/uploads/2013/04/lose_weight_bike_riding.jpg)
+![bike riding for aerobic exercise](http://blog.codyapp.com/wp-content/uploads/2013/04/lose_weight_bike_riding.jpg "Bike Riding and Aerobic Exercises Can Reduce PTSD Symptoms")
 
 **Yoga/Tai Chi**
 
 Both yoga and tai chi combine breath with movement and have a mindful quality to the activity. This can help to improve strength and flexibility and may help to focus your mind and reduce stress.
 
-![man doing yoga exercise](http://www.chopra.com/sites/default/files/field/image/ManDoingYoga_0.jpg)
+![man doing yoga exercise](http://www.chopra.com/sites/default/files/field/image/ManDoingYoga_0.jpg "Yoga is a Proven Treatment for PTSD")
 
 **Seek treatment for Chronic Injury**
 
