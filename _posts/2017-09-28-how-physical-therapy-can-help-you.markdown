@@ -10,7 +10,7 @@ description: What exactly do physical therapists do? We discuss a few of the imp
 
 What exactly does a physical therapist do? [The APTA explains](http://www.apta.org/AboutPTs/): "Physical therapists (PTs) are highly-educated, licensed health care professionals who can help patients reduce pain and improve or restore mobility". A physical therapist utilizes conservative treatments to correct faulty movement patterns to restore pain free mobility and function. This can be accomplished in many ways in which a physical therapist is specifically trained and includes both manual and active techniques such as soft tissue and joint mobilization, strengthening, and flexibility. It all begins with an initial examination; a physical therapist will typically spend a full hour evaluating your unique situation and design a treatment plan tailored to your needs.
 
-![Wall Straps Exercise image](/uploads/wall-straps-exercise.jpg)
+![iamge of Wall Straps Exercise](/uploads/wall-straps-exercise.jpg "Wall Strap Exercise")
 
 ### Here is a list of ways a physical therapist may be able to help you:
 
@@ -18,7 +18,7 @@ What exactly does a physical therapist do? [The APTA explains](http://www.apta.o
 
 **Prevention:** A physical therapist spends a large amount of his/her time evaluating you at every session. A good physical therapist will address postural and movement problems that will likely cause downstream problems. The body is a kinetic chain, and very seldom is an injury or problem related to just one joint in the body.
 
-![Box Balance Exercise image](/uploads/box-balance-angela.jpg)
+![Box Balance Exercise image](/uploads/box-balance-angela.jpg "Box Balance Physical Therapy Exercise")
 
 **Home Program:** [Physical therapy treatments](/services) are not only carried out in the clinic, but at home as well. In fact, your home exercise program is vital to your recovery. Adhering to a good home exercise program will ensure continued success after ceasing treatments, prevent re-injury, and most importantly empower you to take control of your own rehabilitation.
 
