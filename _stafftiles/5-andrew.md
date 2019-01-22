@@ -2,8 +2,8 @@
 title: Andrew Novencido
 layout: page
 creds: PT, DPT
-education1:
-education2:
+education1: 
+education2: 
 bio-thumbnail: uploads/staff/andrew_sspt.jpg
 ---
 
