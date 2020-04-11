@@ -2,8 +2,8 @@
 title: Ivy Colbert
 layout: page
 creds: PT, DPT
-education1:
-education2:
+education1: 
+education2: 
 bio-thumbnail: uploads/staff/ivy_sspt.jpg
 ---
 
