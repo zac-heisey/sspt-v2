@@ -1,0 +1,40 @@
+I"`<div class="lp-content-section">
+  <p>Silver Strand Physical Therapy provides physical therapy treatment to patients in the Coronado area. If you're looking for physical therapy in Coronado, we'd love to help! From our office location in Imperial Beach, we are centrally located to offer physical therapy services to patients throughout South San Diego, including physical therapy in Coronado.</p>
+
+  <p>We accept all major insurance plans, including Tricare, Medicare, Aetna, and more. To learn more about our physical therapy treatment options, or to schedule an appointment, please complete the quick form to the right.</p>
+
+  <h3>Our Coronado Physical Therapy Services Include:</h3>
+  <ul>
+    <li>Injury Prevention &amp; Exercise Programs</li>
+    <li>Acute Injury &amp; Post-Op Care</li>
+    <li>Reconditioning Exercises &amp; Deconditioning Prevention</li>
+    <li>Balance Training &amp; Exercises</li>
+    <li>Neurological Rehabilitation &amp; Stroke/CVA Recovery</li>
+    <li>Biomechanical Assessment &amp; Analysis</li>
+    <li>Pediatric Physical Therapy &amp; Rehabilitation</li>
+    <li>Elite Sports Training &amp; Sports Rehabilitation</li>
+  </ul>
+
+</div>
+
+<section id="landing-contact">
+  <h2>Get in touch</h2>
+  <form method="POST" action="https://formspree.io/admin@silverstrandpt.com">
+    <div class="field half first">
+      <input type="text" name="name" id="name" placeholder="Name" required="" />
+    </div>
+    <div class="field half">
+      <input type="email" name="_replyto" id="email" placeholder="Email" required="" />
+    </div>
+    <div class="field">
+      <textarea name="message" id="message" placeholder="Message" required=""></textarea>
+    </div>
+    <ul class="actions">
+      <li>
+        <input type="submit" value="Send" class="special" />
+        <input type="hidden" name="_next" value="/thank-you" />
+      </li>
+    </ul>
+  </form>
+</section>
+:ET
