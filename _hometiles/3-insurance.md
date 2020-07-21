@@ -20,37 +20,56 @@ Silver Strand Physical Therapy is contracted with numerous health insurance plan
 
 <section id="insurance-providers">
   <div class="provider-list">
+    <!-- Commercial Plans -->
     <h3>Commercial Plans</h3>
-    <i>(PPO, POS, EPO, HMO, Medi/Medi,and Medicare Advantage)</i>
-    <li>Aetna</li>
-    <li>ASH (American Specialty Health)</li>
-    <li>All Covered California Plans</li>
-    <li>Anthem Blue Cross</li>
-    <li>Beech Street (Capp Care & PPO Next)</li>
-    <li>Blue Shield</li>
-    <li>Cigna</li>
-    <li>Community Health Group (All Except Medi-Cal)</li>
-    <li>First Health</li>
-    <li>Great West</li>
-    <li>Health Net</li>
-    <li>Molina Healthcare</li>
-    <li>Multiplan</li>
-    <li>Scripps (PPO & EPO)</li>
-    <li>United Healthcare</li>
+    <ul>
+      <li>Aetna</li>
+      <li>Anthem Blue Cross</li>
+      <li>ASH (American Specialty Health)</li>
+      <li>Beech Street</li>
+        <ul>
+          <li>Capp Care & PPO Group</li>
+        </ul>
+      <li>Blue Shield</li>
+      <li>Cigna</li>
+        <ul>
+          <li>HMO, Special Needs Plan</li>
+          <li>CalMediConnect</li>
+        </ul>
+      <li>First Health</li>
+      <li>Great West</li>
+      <li>Health Net</li>
+        <ul>
+          <li>HMO (where not capped)</li>
+          <li>Covered CA Plans (including Enhance Care PPO)</li>
+          <li>Pure Care</li>
+          <li>Comm. Care (Direct Network Only)</li>
+        </ul>
+      <li>Molina Healthcare (IPO & Covered CA)</li>
+      <li>Multiplan</li>
+      <li>Scripps (PPO & EPO)</li>
+      <li>United Healthcare</li>
+    </ul>
   </div>
   <div class="provider-list">
-    <h3>Federal (Medical and Worker's Compensation) Plans</h3>
-    <li>Blue Shield Federal</li>
-    <li>CHAMPVA</li>
-    <li>Department of Labor</li>
-    <li>Medicare</li>
-    <li>TRICARE (Select and Prime)</li>
-    <li>VAPCCC (TriWest Alliance)</li>
-    <li>Veterans Administrators</li>
-    <h3>Medi-Cal Plans</h3>
-    <li>Molina</li>
-    <h3>Worker's Compensation Plans</h3>
-    <li>Active with ALL plans (Align, MedRisk, One Call, etc.)</li>
+    <!-- Federal Plans -->
+    <h3>Federal Plans</h3>
+    <ul>
+      <li>Blue Shield Federal</li>
+      <li>CHAMPVA</li>
+      <li>Department of Labor</li>
+      <li>Medicare</li>
+      <li>Medi-Medi Plans</li>
+      <li>TRICARE</li>
+      <li>TriWest</li>
+    </ul>
+    <!-- Worker's Comp. Plans -->
+    <h3>Worker's Comp. Plans</h3>
+    <ul>
+      <li>All Plans</li>
+      <li>Align, MediRisk, One Call, Corvel, etc.</li>
+      <li>Anthem Market Place Worker's Comp.</li>
+    </ul>
   </div>
 </section>
 
