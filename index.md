@@ -14,6 +14,6 @@ Silver Strand Physical Therapy is a hybrid physical therapy clinic combining tra
 
 Applied Functional Science uses a total body approach to not only treat the patient’s symptoms, but to find the underlying source of their issues. Using the most authentic positioning and input to the body allows our clinicians to set the body up for success moving forward.
 
-Silver Strand Physical Therapy is located in the heart of Imperial Beach, making us the physical therapy clinic of choice for patients [throughout the South Bay](/service-areas).
+Silver Strand Physical Therapy is located in the heart of Imperial Beach, with a second location in Chula Vista, making us the physical therapy clinic of choice for patients [throughout San Diego's South Bay region](/service-areas).
 
 {% include home-tiles.html %}
