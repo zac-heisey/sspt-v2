@@ -140,8 +140,11 @@
 		height: _size(element-height);
 	}
 
-	textarea {
+	.textarea-wrapper {
 		margin: 0 0 1.3em 0;
+	}
+
+	textarea {
 		padding: 0;
 		min-height: (_size(element-height) * 1.25);
 	}
