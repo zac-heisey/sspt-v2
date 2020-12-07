@@ -67,7 +67,7 @@
 		.hidden {
 			display: none;
 		}
-		
+
 	}
 
 	label {
@@ -122,6 +122,10 @@
 			text-align: center;
 			top: 0;
 			width: _size(element-height);
+		}
+
+		select {
+			color: #757575;
 		}
 
 		select::-ms-expand {
