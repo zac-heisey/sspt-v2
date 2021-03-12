@@ -8,12 +8,10 @@ layout: default
 
 # {{ page.primary_description }}
 
-## 1-on-1 Physical Therapy in Imperial Beach & South San Diego
+## Silver Strand Physical Therapy has merged with RISE Physical Therapy!
 
-Silver Strand Physical Therapy is a hybrid physical therapy clinic combining traditional physical therapy tools and approaches with Applied Functional Science (AFS) to provide patients with the most comprehensive approach to their care.
+Silver Strand Physical Therapy is excited to merge with our parent company RISE Physical Therapy. Since opening our doors in 2017, Silver Strand Physical Therapy has always worked hand in hand with the greater RISE Physical Therapy brand. We are excited to finally merge the two in order to bring the only outpatient physical therapy clinics that provide one-on-one care with a provider for a full session without the use of aides or assistants.
 
-Applied Functional Science uses a total body approach to not only treat the patient’s symptoms, but to find the underlying source of their issues. Using the most authentic positioning and input to the body allows our clinicians to set the body up for success moving forward.
+<a href="https://www.risephysicaltherapy.com/" class="button primary">Go to RISE Physical Therapy</a>
 
-Silver Strand Physical Therapy is located in the heart of Imperial Beach, with a second location in Chula Vista, making us the physical therapy clinic of choice for patients [throughout San Diego's South Bay region](/service-areas).
-
-{% include home-tiles.html %}
+<!-- {% include home-tiles.html %} -->
